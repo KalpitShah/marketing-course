@@ -124,15 +124,15 @@ The failure mode is listing on every marketplace and maintaining none. A stale l
 
 ## Videos
 
-- [The Business of Belonging, David Spinks (CMX)](https://www.youtube.com/results?search_query=david+spinks+business+of+belonging+talk) (YouTube search)
+- [The Business of Belonging, David Spinks (CMX)](https://www.youtube.com/watch?v=txZF7KHxJYo)
   Why watch: Spinks founded CMX and wrote the standard book on community strategy; his framework for tying community to business outcomes is the one to use in your decision document; about 40 minutes.
-- [The Business Value of Developer Relations, Mary Thengvall](https://www.youtube.com/results?search_query=mary+thengvall+business+value+of+developer+relations) (YouTube search)
+- [The Business Value of Developer Relations, Mary Thengvall](https://www.youtube.com/watch?v=Z_eHb9TKvKI)
   Why watch: how to measure devrel without pretending talks are leads, including the devrel qualified lead concept; about 30 to 45 minutes.
-- [Kelsey Hightower on developer community and open source](https://www.youtube.com/results?search_query=kelsey+hightower+developer+community+talk) (YouTube search)
+- [Kelsey Hightower on developer community and open source](https://www.youtube.com/watch?v=eb0442K_zmY)
   Why watch: the most credible explanation of why generosity, live demos, and helping people succeed are what build developer trust; length varies by talk, pick one around 30 minutes.
-- [Figma's growth and community (Lenny's Podcast and talks)](https://www.youtube.com/results?search_query=figma+growth+community+talk+lenny) (YouTube search)
+- [Figma's growth and community (Lenny's Podcast and talks)](https://www.youtube.com/watch?v=UmirRfy-gzA)
   Why watch: how the Figma Community and Config turned users into contributors, and what Figma did deliberately versus what happened on its own; about an hour.
-- [Patrick Collison on developers as customers (Stripe)](https://www.youtube.com/results?search_query=patrick+collison+interview+stripe+developers+customers) (YouTube search)
+- [Patrick Collison on developers as customers (Stripe)](https://www.youtube.com/watch?v=WU-lBOAS1VQ)
   Why watch: why Stripe treated documentation and developer experience as the product, and how that decided its distribution; about an hour, the first half is the relevant part.
 
 ## Recommended reading

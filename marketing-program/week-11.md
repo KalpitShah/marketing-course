@@ -128,15 +128,15 @@ Failure mode: treating a drop in informational traffic as proof that SEO is dead
 
 ## Videos
 
-- [How Search Works, Google (Google Search Central)](https://www.youtube.com/results?search_query=google+search+central+how+search+works) (YouTube search)
+- [How Search Works, Google (Google Search Central)](https://www.youtube.com/watch?v=5MIAugQ17ks)
   Why watch: Google's own short explanation of crawling, indexing, and ranking, useful to calibrate against the myths; about 5 to 10 minutes.
-- [SEO for Beginners: Rank #1 In Google, Sam Oh (Ahrefs)](https://www.youtube.com/results?search_query=ahrefs+seo+for+beginners+sam+oh) (YouTube search)
+- [SEO for Beginners: Rank #1 In Google, Sam Oh (Ahrefs)](https://www.youtube.com/watch?v=xsVTqzratPs)
   Why watch: a complete, practical walkthrough of the whole stack from technical to links; about 60 minutes and worth all of it.
-- [Keyword Research Tutorial, Sam Oh (Ahrefs)](https://www.youtube.com/results?search_query=ahrefs+keyword+research+tutorial+sam+oh) (YouTube search)
+- [Keyword Research Tutorial, Sam Oh (Ahrefs)](https://www.youtube.com/watch?v=c9oKifDiuLk)
   Why watch: the exact process for going from seed topics to a prioritized list, including the business potential score; about 20 to 30 minutes, watch before the exercise.
-- [Programmatic SEO, Ahrefs](https://www.youtube.com/results?search_query=ahrefs+programmatic+seo) (YouTube search)
+- [Programmatic SEO, Ahrefs](https://www.youtube.com/watch?v=Ale2fK1Xnbs)
   Why watch: how integration, template, and directory pages are built at scale and where the approach breaks; about 15 to 20 minutes.
-- [Zero-click search and audience research, Rand Fishkin (SparkToro)](https://www.youtube.com/results?search_query=rand+fishkin+zero+click+search+talk) (YouTube search)
+- [Zero-click search and audience research, Rand Fishkin (SparkToro)](https://www.youtube.com/watch?v=B35eQ7keoGA)
   Why watch: the data on searches that end without a click and what it means for where to invest; about 30 to 45 minutes.
 
 ## Recommended reading

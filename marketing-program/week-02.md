@@ -126,13 +126,13 @@ The failure mode of synthesis is confirmation. Two defenses: have someone who di
 
 ## Videos
 
-- [How to Talk to Users, Eric Migicovsky (Y Combinator Startup School)](https://www.youtube.com/results?search_query=y+combinator+how+to+talk+to+users+eric+migicovsky) (YouTube search)
+- [How to Talk to Users, Eric Migicovsky (Y Combinator Startup School)](https://www.youtube.com/watch?v=MT4Ig2uqjTc)
   Why watch: about 30 minutes; the founder of Pebble walks through the Mom Test rules with concrete bad and good questions, and covers how to find interviewees.
-- [The Jobs to be Done Theory (milkshake story), Clayton Christensen](https://www.youtube.com/results?search_query=clayton+christensen+jobs+to+be+done+milkshake) (YouTube search)
+- [The Jobs to be Done Theory (milkshake story), Clayton Christensen](https://www.youtube.com/watch?v=sXYm-CVzPQ0)
   Why watch: about 5 to 10 minutes depending on the version you pick; the milkshake story told by the person who made it famous, and the shortest possible explanation of why "who is the competition" is the wrong question.
 - [Jobs to be Done, Des Traynor (Business of Software)](https://www.youtube.com/results?search_query=des+traynor+jobs+to+be+done+business+of+software) (YouTube search)
   Why watch: about 40 minutes; Intercom's cofounder explains how JTBD changed what they built and how they talked about it, with software examples.
-- [Jobs to be Done interview technique, Bob Moesta](https://www.youtube.com/results?search_query=bob+moesta+jobs+to+be+done+interview) (YouTube search)
+- [Jobs to be Done interview technique, Bob Moesta](https://www.youtube.com/watch?v=GNdR7NS-S7Q)
   Why watch: variable length; Moesta demonstrates the switch interview, including how he pulls a timeline out of a customer, which is the skill you are practicing in the exercise.
 - [Choice, happiness and spaghetti sauce, Malcolm Gladwell (TED, 2004)](https://www.ted.com/talks/malcolm_gladwell_choice_happiness_and_spaghetti_sauce)
   Why watch: about 17 minutes; the Howard Moskowitz story about why asking people what they want fails and observing what they choose works.

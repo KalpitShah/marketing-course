@@ -104,15 +104,15 @@ The battlecard is where founders fabricate. Do not write what you wish were true
 
 ## Videos
 
-- [Founding Sales, Pete Kazanjy (talk)](https://www.youtube.com/results?search_query=pete+kazanjy+founding+sales+talk) (YouTube search)
+- [Founding Sales, Pete Kazanjy (talk)](https://www.youtube.com/watch?v=cZd5234Eem0)
   Why watch: the clearest walkthrough of how a technical founder should run early sales as a learning process rather than a pitch, about 45 minutes depending on the version you pick.
-- [From $1M to $10M ARR, Jason Lemkin (SaaStr)](https://www.youtube.com/results?search_query=jason+lemkin+saastr+1m+to+10m+arr) (YouTube search)
+- [From $1M to $10M ARR, Jason Lemkin (SaaStr)](https://www.youtube.com/watch?v=9dl1Zqpm15c)
   Why watch: blunt on when to hire your first reps, what they cost, and the difference between founder-led and rep-led selling, roughly 30 to 45 minutes.
-- [The Sales Acceleration Formula, Mark Roberge (talk)](https://www.youtube.com/results?search_query=mark+roberge+sales+acceleration+formula+talk) (YouTube search)
+- [The Sales Acceleration Formula, Mark Roberge (talk)](https://www.youtube.com/watch?v=RG_eyn0fRXs)
   Why watch: the HubSpot sales leader on defining lead stages with numbers and building a sales process an engineer would recognize, around 40 minutes.
 - [The single biggest reason why start-ups succeed, Bill Gross (TED, 2015)](https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_start_ups_succeed)
   Why watch: six minutes on timing; it reframes launch decisions as market readiness questions rather than product readiness questions.
-- [How to Get Your First Customers, Michael Seibel (Y Combinator)](https://www.youtube.com/results?search_query=y+combinator+michael+seibel+how+to+get+your+first+customers) (YouTube search)
+- [How to Get Your First Customers, Michael Seibel (Y Combinator)](https://www.youtube.com/watch?v=WAXLTG9n7Kw)
   Why watch: practical and short (about 20 minutes) on founder-led outreach, charging early, and not hiding behind a website.
 
 ## Recommended reading

@@ -108,11 +108,11 @@ The failure mode is the founder who plans for the marketing team they hope to ha
 
 - [Why the secret to success is setting the right goals, John Doerr (TED, 2018)](https://www.ted.com/talks/john_doerr_why_the_secret_to_success_is_setting_the_right_goals)
   Why watch: twelve minutes on OKRs from the person who brought them from Intel to Google, including the difference between an objective and a key result.
-- [How to Set KPIs and Goals, Adora Cheung (Y Combinator)](https://www.youtube.com/results?search_query=y+combinator+adora+cheung+how+to+set+kpis+and+goals) (YouTube search)
+- [How to Set KPIs and Goals, Adora Cheung (Y Combinator)](https://www.youtube.com/watch?v=lL6GdUHIBsM)
   Why watch: about 25 minutes on picking one primary metric, setting weekly targets, and not fooling yourself with vanity numbers; pairs well with the dashboard exercise.
-- [High Output Management, Ben Horowitz on Andy Grove (interview)](https://www.youtube.com/results?search_query=ben+horowitz+high+output+management+andy+grove) (YouTube search)
+- [High Output Management, Ben Horowitz on Andy Grove (interview)](https://www.youtube.com/watch?v=SqdcyBGaPlQ)
   Why watch: Horowitz explains why Grove's book is the best management text for founders, especially the ideas of leverage and output that underpin the weekly cadence; length varies by version, usually 20 to 45 minutes.
-- [Amazon Working Backwards and the PR FAQ explained (talk)](https://www.youtube.com/results?search_query=amazon+working+backwards+pr+faq+explained) (YouTube search)
+- [Amazon Working Backwards and the PR FAQ explained (talk)](https://www.youtube.com/watch?v=hmg3hcHj4c8)
   Why watch: a walkthrough of writing the press release before the project, which is the best filter for quarterly bets; pick a version around 15 to 30 minutes.
 
 ## Recommended reading

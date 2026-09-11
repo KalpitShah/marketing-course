@@ -114,13 +114,13 @@ Failure mode: tests that cannot fail. A test with no threshold, no budget cap, o
 
 - [Why Product Market Fit Isn't Enough, Brian Balfour (Reforge talk)](https://www.youtube.com/results?search_query=brian+balfour+four+fits+product+market+fit+isn%27t+enough) (YouTube search)
   Why watch: the four fits explained by the person who framed them, with HubSpot as the running example; about 45 minutes.
-- [How to Get Users and Grow, Gustaf Alströmer (Y Combinator Startup School)](https://www.youtube.com/results?search_query=y+combinator+gustaf+alstromer+how+to+get+users+and+grow) (YouTube search)
+- [How to Get Users and Grow, Gustaf Alströmer (Y Combinator Startup School)](https://www.youtube.com/watch?v=T9ikpoF2GH0)
   Why watch: a former Airbnb growth lead on which channels early companies should and should not bother with, and why retention comes before any of them; about 50 minutes.
 - [Lecture 6: Growth, Alex Schultz (Stanford CS183B, 2014)](https://www.youtube.com/watch?v=n_yHZ_vKjno)
   Why watch: Meta's growth chief on why retention is the foundation of every channel and how to think about the "magic moment" before you spend on acquisition; about 50 minutes.
-- [Zapier's SEO and partner strategy, Wade Foster (interview)](https://www.youtube.com/results?search_query=wade+foster+zapier+seo+growth+interview) (YouTube search)
+- [Zapier's SEO and partner strategy, Wade Foster (interview)](https://www.youtube.com/watch?v=vguRu73RbJ4)
   Why watch: the clearest example of product-channel fit, where integration pages built for search became the company's main channel; length varies by interview, usually 30 to 60 minutes.
-- [How to Get Your First Customers, Michael Seibel (Y Combinator)](https://www.youtube.com/results?search_query=y+combinator+michael+seibel+how+to+get+your+first+customers) (YouTube search)
+- [How to Get Your First Customers, Michael Seibel (Y Combinator)](https://www.youtube.com/watch?v=WAXLTG9n7Kw)
   Why watch: a reminder that founder-led outreach is a channel, and the one you should test before any other; about 20 minutes.
 
 ## Recommended reading

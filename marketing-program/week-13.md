@@ -140,11 +140,11 @@ The failure mode is optimizing subject lines for opens (an unreliable metric) wh
 
 ## Videos
 
-- [Val Geisler, onboarding email talk](https://www.youtube.com/results?search_query=val+geisler+onboarding+email+talk) (YouTube search)
+- [Val Geisler, onboarding email talk](https://www.youtube.com/watch?v=hI9Msr4ZVAo)
   Why watch: Geisler teaches onboarding sequences through teardowns of real SaaS companies, and her "dinner party" framing (welcome, get to know, serve) is the simplest way to structure your first sequence; about 30 to 45 minutes depending on the version.
-- [How to Improve Conversion Rates, Kevin Hale (Y Combinator)](https://www.youtube.com/results?search_query=y+combinator+kevin+hale+how+to+improve+conversion+rates) (YouTube search)
+- [How to Improve Conversion Rates, Kevin Hale (Y Combinator)](https://www.youtube.com/watch?v=PGqX9fpweyc)
   Why watch: the middle section on reducing friction and setting expectations at signup applies directly to what your welcome email should say; about 50 minutes.
-- [Elena Verna on retention (Reforge and talks)](https://www.youtube.com/results?search_query=elena+verna+retention+talk) (YouTube search)
+- [Elena Verna on retention (Reforge and talks)](https://www.youtube.com/watch?v=9FHYtjw6mjs)
   Why watch: Verna connects lifecycle messaging to retention curves, which is the frame you need before you write a single activation nudge; about 40 minutes.
 - [HubSpot Academy, Email Marketing course](https://academy.hubspot.com/courses/email-marketing-certification-en)
   Why watch: a free, structured video course covering segmentation, deliverability basics, and testing; skip the parts that assume you are using HubSpot and watch the lessons on list health and sending frequency; roughly 3 hours in total, do the first half.

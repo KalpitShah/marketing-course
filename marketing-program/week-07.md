@@ -116,13 +116,13 @@ The failure mode is renaming to fix a marketing problem that is really a positio
 
 - [Steve Jobs, 1997 internal talk on marketing and values (Think Different launch)](https://www.youtube.com/watch?v=keCwRdbwNQY)
   Why watch: if you saw it in week 1, watch it again with this week's lens. Jobs argues that marketing is about what the company stands for, not product specs, and then shows the campaign. About 7 minutes.
-- [How Brands Grow talk, Byron Sharp](https://www.youtube.com/results?search_query=byron+sharp+how+brands+grow+talk) (YouTube search)
+- [How Brands Grow talk, Byron Sharp](https://www.youtube.com/watch?v=VUFYkOE2538)
   Why watch: the evidence behind mental and physical availability and distinctive assets, delivered by the researcher himself. Pick the top result; 30 to 60 minutes.
-- [The Long and the Short of It, Les Binet and Peter Field](https://www.youtube.com/results?search_query=binet+field+the+long+and+the+short+of+it+talk) (YouTube search)
+- [The Long and the Short of It, Les Binet and Peter Field](https://www.youtube.com/watch?v=F-_fo3YhPso)
   Why watch: the data on brand versus activation and why they work on different timescales. Watch for the argument, then apply the startup caveats from this week. About 30 to 45 minutes.
-- [The Brand Gap talk, Marty Neumeier](https://www.youtube.com/results?search_query=marty+neumeier+the+brand+gap+talk) (YouTube search)
+- [The Brand Gap talk, Marty Neumeier](https://www.youtube.com/watch?v=ApRrkjpReQU)
   Why watch: the clearest short explanation of what a brand is (a gut feeling) and why strategy and creative usually fail to meet. Typically 20 to 40 minutes.
-- [Apple "1984" Super Bowl commercial](https://www.youtube.com/results?search_query=apple+1984+super+bowl+commercial) (YouTube search)
+- [Apple "1984" Super Bowl commercial](https://www.youtube.com/watch?v=2zfqw8nhUwA)
   Why watch: one minute. Notice that it never shows the product and says nothing about specs; the entire ad is a statement of what the company stands against.
 
 ## Recommended reading

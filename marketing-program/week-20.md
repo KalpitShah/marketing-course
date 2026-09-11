@@ -120,13 +120,13 @@ The failure mode: never revisiting pricing. Your product is better than it was t
 
 ## Videos
 
-- [SaaS pricing talk, Patrick Campbell (ProfitWell)](https://www.youtube.com/results?search_query=patrick+campbell+saas+pricing+talk) (YouTube search)
+- [SaaS pricing talk, Patrick Campbell (ProfitWell)](https://www.youtube.com/watch?v=npadtGFiCGA)
   Why watch: data from thousands of software companies on value metrics, willingness-to-pay research and how often companies underprice; 30 to 45 minutes.
-- [Monetizing Innovation, Madhavan Ramanujam (Lenny's Podcast)](https://www.youtube.com/results?search_query=lenny%27s+podcast+madhavan+ramanujam+pricing) (YouTube search)
+- [Monetizing Innovation, Madhavan Ramanujam (Lenny's Podcast)](https://www.youtube.com/watch?v=A6veeCbKIzw)
   Why watch: the case for talking about price before building, and practical detail on willingness-to-pay conversations; about 75 minutes.
-- [Product-led growth pricing and packaging, Kyle Poyar](https://www.youtube.com/results?search_query=kyle+poyar+product+led+growth+pricing+talk) (YouTube search)
+- [Product-led growth pricing and packaging, Kyle Poyar](https://www.youtube.com/watch?v=bz4BB2d5sSE)
   Why watch: how PLG companies structure free tiers, trials and self-serve upgrade paths, with named examples; about 30 minutes.
-- [Runnin' Down a Dream, Bill Gurley (talk)](https://www.youtube.com/results?search_query=bill+gurley+runnin+down+a+dream) (YouTube search)
+- [Runnin' Down a Dream, Bill Gurley (talk)](https://www.youtube.com/watch?v=xmYekD6-PZ8)
   Why watch: not a pricing talk, but the best introduction to how Gurley thinks about markets and platforms before you read his essay on take rates; about 60 minutes.
 
 ## Recommended reading

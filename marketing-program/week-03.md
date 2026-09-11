@@ -120,11 +120,11 @@ The failure mode is watching for signals without an ICP. Every prospecting tool 
 
 - [Lecture 5: Competition is for Losers, Peter Thiel (Stanford CS183B, 2014)](https://www.youtube.com/watch?v=5_0dVHMpJlo)
   Why watch: about 50 minutes; Thiel argues for starting in a small market you can dominate and expanding from there, which is the beachhead strategy in economic terms, and his critique of top-down market sizing is worth the time on its own.
-- [How to Evaluate Startup Ideas, Kevin Hale (Y Combinator)](https://www.youtube.com/results?search_query=y+combinator+kevin+hale+how+to+evaluate+startup+ideas) (YouTube search)
+- [How to Evaluate Startup Ideas, Kevin Hale (Y Combinator)](https://www.youtube.com/watch?v=DOtCl5PU8F0)
   Why watch: about 40 minutes; Hale's framework of problem, solution, and insight includes a clear treatment of what makes a problem worth pursuing (frequent, urgent, expensive, mandatory), which is a checklist for evaluating a segment.
-- [Designing the Ideal Bootstrapped Business, Jason Cohen (MicroConf, 2013)](https://www.youtube.com/results?search_query=jason+cohen+designing+the+ideal+bootstrapped+business+microconf) (YouTube search)
+- [Designing the Ideal Bootstrapped Business, Jason Cohen (MicroConf, 2013)](https://www.youtube.com/watch?v=otbnC2zE2rw)
   Why watch: about 45 minutes; the founder of WP Engine explains how he chose a market by looking for predictable, recurring demand and a customer that was easy to reach, and it is the most practical talk on segment selection you will find.
-- [How to Get Your First Customers, Michael Seibel (Y Combinator)](https://www.youtube.com/results?search_query=y+combinator+michael+seibel+how+to+get+your+first+customers) (YouTube search)
+- [How to Get Your First Customers, Michael Seibel (Y Combinator)](https://www.youtube.com/watch?v=WAXLTG9n7Kw)
   Why watch: about 15 minutes; Seibel covers who to approach first and why the first ten customers should look alike, which is the beachhead in miniature.
 
 ## Recommended reading

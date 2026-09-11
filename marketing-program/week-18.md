@@ -122,11 +122,11 @@ The failure mode: a dashboard with every metric in green because someone chose t
 
 ## Videos
 
-- [Analytics for Startups, Ilya Volodarsky (Y Combinator Startup School)](https://www.youtube.com/results?search_query=y+combinator+ilya+volodarsky+analytics+for+startups) (YouTube search)
+- [Analytics for Startups, Ilya Volodarsky (Y Combinator Startup School)](https://www.youtube.com/watch?v=LLerCc7MOQo)
   Why watch: a Segment cofounder walks through exactly which events to track, how identity works, and how to avoid event sprawl; about 30 minutes and the most directly applicable talk this week.
-- [How to Set KPIs and Goals, Adora Cheung (Y Combinator)](https://www.youtube.com/results?search_query=y+combinator+adora+cheung+how+to+set+kpis+and+goals) (YouTube search)
+- [How to Set KPIs and Goals, Adora Cheung (Y Combinator)](https://www.youtube.com/watch?v=lL6GdUHIBsM)
   Why watch: picking one primary metric and a small set of secondaries, with examples of what founders get wrong; about 30 minutes.
-- [Digital analytics keynote, Avinash Kaushik](https://www.youtube.com/results?search_query=avinash+kaushik+keynote+digital+analytics) (YouTube search)
+- [Digital analytics keynote, Avinash Kaushik](https://www.youtube.com/watch?v=sMwQN43fwoQ)
   Why watch: Kaushik is blunt about vanity metrics and about tying measurement to business outcomes, and he is funny about it; 45 to 60 minutes depending on the keynote.
 - [The best stats you've ever seen, Hans Rosling (TED, 2006)](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
   Why watch: the standard for showing data over time honestly and for updating your beliefs when the data disagrees with them; 20 minutes.

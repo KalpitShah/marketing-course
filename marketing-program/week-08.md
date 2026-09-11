@@ -116,15 +116,15 @@ The failure mode is the demo that shows everything. Every feature you show that 
 
 ## Videos
 
-- [Strategic narrative talk, Andy Raskin](https://www.youtube.com/results?search_query=andy+raskin+strategic+narrative+talk) (YouTube search)
+- [Strategic narrative talk, Andy Raskin](https://www.youtube.com/watch?v=dkVJnaxDlXE)
   Why watch: Raskin walking through the five moves with real decks, including what goes wrong when companies start with the product. Pick the top result; 30 to 45 minutes.
 - [The secret structure of great talks, Nancy Duarte (TEDx, 2011)](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks)
   Why watch: the sparkline, what is versus what could be, shown on two famous speeches; the same shape your narrative should have. About 18 minutes.
-- [Steve Jobs introduces the iPhone (Macworld 2007 keynote)](https://www.youtube.com/results?search_query=steve+jobs+introduces+iphone+2007+macworld+keynote) (YouTube search)
+- [Steve Jobs introduces the iPhone (Macworld 2007 keynote)](https://www.youtube.com/watch?v=VQKMoT-6XSg)
   Why watch: watch the first ten minutes for the three-devices setup and payoff, and note how long he waits before showing the product.
-- [Dropbox original demo video, Drew Houston (2008)](https://www.youtube.com/results?search_query=dropbox+original+demo+video+2008+drew+houston) (YouTube search)
+- [Dropbox original demo video, Drew Houston (2008)](https://www.youtube.com/watch?v=3lVtP0HRvyA)
   Why watch: a founder narrating a story about a file, made for one specific audience, that validated demand before the product was ready. About 3 minutes.
-- [So Yeah, We Tried Slack (Sandwich Video, 2014)](https://www.youtube.com/results?search_query=so+yeah+we+tried+slack+sandwich+video) (YouTube search)
+- [So Yeah, We Tried Slack (Sandwich Video, 2014)](https://www.youtube.com/watch?v=B6zVzWU95Sw)
   Why watch: a product video built entirely as a customer story arc, with the product only shown as it appears in that story. About 2.5 minutes.
 
 ## Recommended reading

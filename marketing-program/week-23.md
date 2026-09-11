@@ -106,13 +106,13 @@ Tool churn has a cost beyond subscriptions: every migration loses data and break
 
 ## Videos
 
-- [First marketing hires, Emily Kramer of MKT1 (interview)](https://www.youtube.com/results?search_query=emily+kramer+mkt1+first+marketing+hire+interview) (YouTube search)
+- [First marketing hires, Emily Kramer of MKT1 (interview)](https://www.youtube.com/watch?v=kWG-KvZaM8o)
   Why watch: the most practical guidance available on sequencing early marketing hires and what to expect from each, usually 45 to 60 minutes.
-- [B2B brand and marketing, Dave Gerhardt (Exit Five)](https://www.youtube.com/results?search_query=dave+gerhardt+b2b+brand+marketing+talk) (YouTube search)
+- [B2B brand and marketing, Dave Gerhardt (Exit Five)](https://www.youtube.com/watch?v=UB8ZJ01N3bk)
   Why watch: a former Drift and Privy marketing leader on running lean marketing teams and what founders should expect from a first marketer, roughly 30 to 45 minutes.
-- [How to Improve Conversion Rates, Kevin Hale (Y Combinator)](https://www.youtube.com/results?search_query=y+combinator+kevin+hale+how+to+improve+conversion+rates) (YouTube search)
+- [How to Improve Conversion Rates, Kevin Hale (Y Combinator)](https://www.youtube.com/watch?v=PGqX9fpweyc)
   Why watch: a reminder, before you automate or generate anything, that conversion comes from clarity and speed; about 25 minutes.
-- [Tobi Lütke on Shopify's marketing and merchants (interview)](https://www.youtube.com/results?search_query=tobi+lutke+interview+shopify+marketing) (YouTube search)
+- [Tobi Lütke on Shopify's marketing and merchants (interview)](https://www.youtube.com/watch?v=WxIO08ETcXQ)
   Why watch: a technical founder on building a company where tools serve merchants rather than the other way around, and on keeping the team small relative to its reach; length varies, usually about an hour.
 
 ## Recommended reading

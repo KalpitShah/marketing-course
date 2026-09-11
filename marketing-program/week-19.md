@@ -122,13 +122,13 @@ The failure mode: a meeting that becomes a status update. If nobody made a decis
 
 ## Videos
 
-- [Online Controlled Experiments, Ronny Kohavi (talk)](https://www.youtube.com/results?search_query=ronny+kohavi+online+controlled+experiments+talk) (YouTube search)
+- [Online Controlled Experiments, Ronny Kohavi (talk)](https://www.youtube.com/watch?v=kTAFOCynWIg)
   Why watch: the person who built experimentation at Microsoft on the traps that fool experienced teams, with real examples of tests that looked like wins and were not; 45 to 60 minutes.
 - [Trial, error and the God complex, Tim Harford (TED, 2011)](https://www.ted.com/talks/tim_harford_trial_error_and_the_god_complex)
   Why watch: the case for systematic trial and error over expert conviction, which is the philosophical basis of everything this week; 18 minutes.
-- [Conversion optimization talk, Peep Laja (CXL)](https://www.youtube.com/results?search_query=peep+laja+conversion+optimization+talk) (YouTube search)
+- [Conversion optimization talk, Peep Laja (CXL)](https://www.youtube.com/watch?v=hSR_TtaQcIs)
   Why watch: a practitioner on research-driven testing (what to test first and why), with a strong bias toward qualitative research before quantitative tests; about 40 minutes.
-- [How to Improve Conversion Rates, Kevin Hale (Y Combinator)](https://www.youtube.com/results?search_query=y+combinator+kevin+hale+how+to+improve+conversion+rates) (YouTube search)
+- [How to Improve Conversion Rates, Kevin Hale (Y Combinator)](https://www.youtube.com/watch?v=PGqX9fpweyc)
   Why watch: if you skipped it in week 6, it covers the low-traffic version of improving a funnel, which is where most founders are; about 40 minutes.
 
 ## Recommended reading

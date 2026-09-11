@@ -114,9 +114,9 @@ Two other framing tools worth knowing: contrast (the old way next to yours, "wee
   Why watch: the clearest argument that how something is framed changes its value to the buyer, full of examples you will steal. About 18 minutes.
 - [Are we in control of our own decisions?, Dan Ariely (TED, 2008)](https://www.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decisions)
   Why watch: the experimental evidence behind defaults, anchoring and framing, which you will use in pricing and messaging. About 17 minutes.
-- [Conversion copywriting talk, Joanna Wiebe (Copyhackers)](https://www.youtube.com/results?search_query=joanna+wiebe+conversion+copywriting+talk) (YouTube search)
+- [Conversion copywriting talk, Joanna Wiebe (Copyhackers)](https://www.youtube.com/watch?v=TNyDpTM5st8)
   Why watch: Wiebe's method of mining customer language from reviews and interviews and putting it directly into copy is the single most useful habit in this week. Pick the top result; most of her talks run 30 to 45 minutes.
-- [Marketing Examples talk on copywriting, Harry Dry](https://www.youtube.com/results?search_query=harry+dry+marketing+examples+copywriting+talk) (YouTube search)
+- [Marketing Examples talk on copywriting, Harry Dry](https://www.youtube.com/watch?v=TUMjnmfsPeM)
   Why watch: short, concrete rules with before-and-after rewrites of real company copy. Good for calibrating what "specific" actually looks like. Usually 20 to 40 minutes.
 
 ## Recommended reading

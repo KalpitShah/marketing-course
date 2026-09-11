@@ -124,15 +124,15 @@ A note on the company account. Keep one, post product news and repost the founde
 
 ## Videos
 
-- [Justin Welsh on LinkedIn content strategy](https://www.youtube.com/results?search_query=justin+welsh+linkedin+content+strategy+interview) (YouTube search)
+- [Justin Welsh on LinkedIn content strategy](https://www.youtube.com/watch?v=D_12KNeS07k)
   Why watch: a practitioner explaining the daily system behind a consistent LinkedIn presence, including how he batches writing and picks formats; about an hour in most interview versions.
 - [How to start a movement, Derek Sivers (TED, 2010)](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement)
   Why watch: three minutes on why the first follower matters more than the leader, which is the correct way to think about early replies and reshares.
 - [How to get your ideas to spread, Seth Godin (TED, 2003)](https://www.ted.com/talks/seth_godin_how_to_get_your_ideas_to_spread)
   Why watch: the argument that remarkable means "worth making a remark about", which is the test every post should pass; about 17 minutes.
-- [Rand Fishkin on zero-click search and audience research (SparkToro)](https://www.youtube.com/results?search_query=rand+fishkin+zero+click+search+talk) (YouTube search)
+- [Rand Fishkin on zero-click search and audience research (SparkToro)](https://www.youtube.com/watch?v=B35eQ7keoGA)
   Why watch: Fishkin's data on how platforms keep users on-platform explains why you should post native content rather than links, and why dark social is growing; about 40 minutes.
-- [Notion's growth (Lenny's Podcast with Notion growth leaders)](https://www.youtube.com/results?search_query=lenny%27s+podcast+notion+growth) (YouTube search)
+- [Notion's growth (Lenny's Podcast with Notion growth leaders)](https://www.youtube.com/watch?v=bY5KC9Gguz8)
   Why watch: how a community of enthusiastic users on social became a deliberate program, and what Notion did and did not control; about an hour.
 
 ## Recommended reading

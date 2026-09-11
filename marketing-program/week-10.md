@@ -142,9 +142,9 @@ Failure mode: optimizing for the metric you can see. Chasing traffic leads to br
 
 - [Why Content Marketing Fails, Rand Fishkin (talk)](https://www.youtube.com/results?search_query=rand+fishkin+why+content+marketing+fails) (YouTube search)
   Why watch: the clearest diagnosis of why most content efforts produce nothing, centered on distribution and unrealistic timelines; about 30 minutes in most versions.
-- [Content marketing talk, Tim Soulo (Ahrefs)](https://www.youtube.com/results?search_query=tim+soulo+ahrefs+content+marketing+talk) (YouTube search)
+- [Content marketing talk, Tim Soulo (Ahrefs)](https://www.youtube.com/watch?v=TBaSly-k86c)
   Why watch: how Ahrefs built a library where every piece shows the product solving the problem, and why they judge topics by business potential rather than volume; about 30 to 40 minutes.
-- [Everybody Writes, Ann Handley (talk)](https://www.youtube.com/results?search_query=ann+handley+everybody+writes+talk) (YouTube search)
+- [Everybody Writes, Ann Handley (talk)](https://www.youtube.com/watch?v=JAWGDvHbLv0)
   Why watch: the craft and habit side of writing for people who do not think of themselves as writers; about 30 to 45 minutes.
 - [Inbound marketing, Dharmesh Shah (talk)](https://www.youtube.com/results?search_query=dharmesh+shah+inbound+marketing+talk) (YouTube search)
   Why watch: the HubSpot cofounder on why they bet the company on content and free tools instead of ads, and what it took to make that work; length varies, usually 30 to 60 minutes.

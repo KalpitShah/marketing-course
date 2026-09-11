@@ -122,11 +122,11 @@ The failure mode: chasing NRR through aggressive upsell before logo retention is
 
 - [What is good retention, Lenny Rachitsky (talk)](https://www.youtube.com/results?search_query=lenny+rachitsky+what+is+good+retention) (YouTube search)
   Why watch: the clearest walk through category benchmarks and why the shape of the curve matters more than the number; about 30 minutes.
-- [Elena Verna on retention (Reforge and other talks)](https://www.youtube.com/results?search_query=elena+verna+retention+talk) (YouTube search)
+- [Elena Verna on retention (Reforge and other talks)](https://www.youtube.com/watch?v=9FHYtjw6mjs)
   Why watch: Verna ran growth at SurveyMonkey and Miro and explains retention as the input to every other growth lever, with practical detail on activation; 30 to 60 minutes depending on the talk.
-- [Retention analysis tutorial (Amplitude)](https://www.youtube.com/results?search_query=amplitude+retention+analysis+tutorial) (YouTube search)
+- [Retention analysis tutorial (Amplitude)](https://www.youtube.com/watch?v=6oDGzu2Hxlw)
   Why watch: a hands-on look at building cohort charts and finding the aha event in a product analytics tool, so you can replicate it in whatever tool you use; about 15 minutes.
-- [How Superhuman Built an Engine to Find Product Market Fit, Rahul Vohra (talk)](https://www.youtube.com/results?search_query=rahul+vohra+superhuman+product+market+fit+engine+talk) (YouTube search)
+- [How Superhuman Built an Engine to Find Product Market Fit, Rahul Vohra (talk)](https://www.youtube.com/watch?v=uf246kh5les)
   Why watch: if you did not watch it in week 2, this is the best example of using retention and qualitative feedback together to decide what to build; about 40 minutes.
 
 ## Recommended reading
