@@ -88,7 +88,7 @@ Most founders start with channels: "should we do SEO or ads?" That question cann
 
 - **What this week covers and why it matters for a founder.** The situation you are in, the mistake most founders make here, and what changes when you get it right.
 - **Core concepts.** Four to six concepts explained in depth with real examples from real companies (Slack, Stripe, Notion, Figma, HubSpot, Zapier, Superhuman, Canva, Dropbox and others). Not definitions: mechanisms, tradeoffs and failure modes.
-- **Images.** Three to five diagrams per week. Framework diagrams were drawn for this program and live in [`images/`](images/). Classic models (diffusion of innovations, the chasm, PageRank, prospect theory, PDCA and others) are embedded from Wikimedia Commons with source links.
+- **Images.** Three to five diagrams per week. Most are framework diagrams drawn for this program, stored in [`images/`](images/) and regenerated from a script. A handful of classic models (diffusion of innovations, the chasm, PageRank, Porter's value chain, PDCA, the OODA loop and others) are embedded from Wikimedia Commons with source links.
 - **Videos.** Three to five talks, lectures or interviews, each with a line on why it is worth your time. Where a talk's direct video link could not be pinned down, the link is a YouTube search that surfaces the talk as the top result, and it is labeled "(YouTube search)".
 - **Recommended reading.** Articles, essays, HBR pieces and book chapters, with a line on what to take from each.
 - **Hands-on exercise.** Two to four hours, with a deliverable, steps, a template and criteria for "good".
@@ -100,7 +100,9 @@ The program leans on people who have done the work and written it down: April Du
 
 ## Verifying links
 
-Every external link was chosen for stability: canonical article URLs, publisher pages, TED talk pages, and Wikimedia Commons files. The web still changes. A link checker is included so you can verify everything from a machine with normal internet access:
+Every external link in this program was checked against live search results before publication, and the ones that had moved or never existed were corrected or removed. Links were chosen for stability: canonical article URLs, publisher pages, TED talk pages, and Wikimedia Commons files. All framework diagrams are generated locally and stored in this repository, so they cannot rot.
+
+The web still changes. A link checker is included so you can verify everything from a machine with normal internet access:
 
 ```
 python3 scripts/check_links.py marketing-program
