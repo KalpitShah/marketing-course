@@ -1,6 +1,6 @@
 # Week 16: Growth loops and product-led growth
 
-> By the end of this week you will be able to draw the growth loop your platform actually runs on, calculate its throughput and cycle time, and decide which product-led mechanics (free tier, trial, reverse trial, sales assist) fit your product and price.
+> By the end of this week you will be able to draw the growth loop your platform runs on, calculate its throughput and cycle time, and decide which product-led mechanics (free tier, trial, reverse trial, sales assist) fit your product.
 
 **Time budget:** reading about 3 hours, videos about 2.5 hours, exercise 2 to 4 hours.
 
@@ -20,7 +20,7 @@ Concrete outputs this week: one loop diagrammed with every step named, its throu
 
 ### 1. Funnels describe, loops compound
 
-Funnels and loops answer different questions. The funnel answers "where do people fall out of the journey," a conversion question. The loop answers "where does the next user come from," a growth question. You need both, but only one is a strategy.
+Funnels and loops answer different questions. The funnel answers "where do people fall out of the journey," a conversion question. The loop answers "where does the next user come from," a growth question. Only one of them is a strategy.
 
 ![Funnel versus loop: a linear four-stage funnel next to a circular loop where new users produce output that reaches more users](images/w16-funnel-vs-loop.svg)
 
@@ -28,7 +28,7 @@ Funnels and loops answer different questions. The funnel answers "where do peopl
 
 The difference shows up in planning. A funnel plan says "we need 10,000 visitors to get 100 customers." Next quarter you need 12,000 and the cheap ones are gone. A loop plan says "each activated customer produces 0.4 new signups within three weeks, so the questions are how to raise 0.4 and how to shorten three weeks." The second question compounds.
 
-Reforge's essay "Growth Loops are the New Funnels" (in the readings) made this framing popular, and Brian Balfour's talk of the same name is the clearest version on video. Durable growth companies are running one or two loops well, not better funnels.
+Reforge's essay "Growth Loops are the New Funnels" made this framing popular, and Brian Balfour's talk of the same name is the clearest version on video. Durable growth companies are running one or two loops well, not better funnels.
 
 Three consequences matter. Channels feed loops; they are not loops themselves, and running ads is only a loop if revenue from one cohort pays for the next cohort's ads fast enough to reinvest. A loop has a speed, not just a rate: two loops that each produce 0.5 new users per user behave very differently if one takes a week and the other six months. And loops leak, because a user who churns before completing the loop never produces the next one, which is why week 17 follows immediately.
 
@@ -36,7 +36,7 @@ The common failure is drawing a loop that is not closed: a circle from "user sig
 
 ### 2. The main loop types, with real examples
 
-A handful of loop shapes work for software. Knowing which are possible for your product narrows the design problem, because most products can run only one or two.
+A handful of loop shapes work for software. Knowing which are possible narrows the design problem, because most products can run only one or two.
 
 ![Table of growth loop types with how each compounds, real examples and what each requires](images/w16-loop-types.svg)
 
@@ -48,13 +48,13 @@ A handful of loop shapes work for software. Knowing which are possible for your 
 
 **Paid loops.** Revenue from one cohort funds acquisition of the next. The constraint is the payback period from week 12: if recovering acquisition cost takes fourteen months, you cannot reinvest fast enough to spin the loop.
 
-**Content loops.** Content brings an audience, the audience becomes customers, and customers supply the questions and credibility for the next content. HubSpot built a company on this and Ahrefs runs it deliberately, publishing tutorials that both demonstrate and require the product. The requirement is an editorial engine you can sustain, which is why week 10 was about cadence rather than campaigns.
+**Content loops.** Content brings an audience, the audience becomes customers, and customers supply the questions and credibility for the next content. HubSpot built a company on this and Ahrefs runs it deliberately, publishing tutorials that both demonstrate and require the product. The requirement is an editorial engine you can sustain, which is why week 10 was about cadence.
 
-**Embed and badge loops.** Your product's output carries a link into places you never reach: Calendly's booking page, Loom's share link, Typeform's forms, and the "Sent from" footers of the email era, of which Hotmail's free email line at the bottom of every message is the original. The requirement is that users send the product's output to other people as a normal part of using it. This is the cheapest loop to add if you qualify, so audit every artifact your product emits for whether it identifies you.
+**Embed and badge loops.** Your product's output carries a link into places you never reach: Calendly's booking page, Loom's share link, Typeform's forms, and the "Sent from" footers of the email era, of which Hotmail's free email line is the original. The requirement is that users send the product's output to other people as a normal part of using it. This is the cheapest loop to add if you qualify, so audit every artifact your product emits for whether it identifies you.
 
 A sixth shape, the sales-assisted loop, sits on top of any of these: a self-serve user inside a company becomes the entry point for a sales conversation that brings in a team, then a department. Concept 5 covers it.
 
-The failure mode is running four loops at once. Each needs product work, instrumentation, and attention. Pick the one your product makes possible, get it working, then consider a second.
+The failure mode is running four loops at once. Each needs product work, instrumentation, and attention. Pick the one your product makes possible, then consider a second.
 
 ### 3. Designing a loop and measuring it: throughput and cycle time
 
@@ -62,13 +62,13 @@ Write the loop as numbered steps, each with a conversion rate and a time delay, 
 
 **Throughput** is how many new entrants one entrant produces per cycle: multiply the conversion rate of every step. If activated users each share a document, 40 percent of shares are opened by a new person, and 15 percent of those sign up, throughput is those rates multiplied by shares per user.
 
-**Cycle time** is how long one entrant takes to produce the next: add the delay at each step. Signup to first share three days, share to open one day, open to signup two days. Six days per cycle.
+**Cycle time** is how long one entrant takes to produce the next: add the delay at each step. Signup to first share three days, share to open one day, open to signup two days: six days per cycle.
 
-Throughput tells you whether the loop grows or decays; cycle time tells you how fast. Throughput above 1.0 grows on its own and is rare. Most real loops sit between 0.1 and 0.6, so they amplify other channels rather than replace them. A loop at 0.5 turns every 100 users you acquire elsewhere into roughly 200 over time, halving your effective acquisition cost. Worth building, even though it never goes exponential.
+Throughput tells you whether the loop grows or decays; cycle time tells you how fast. Throughput above 1.0 grows on its own and is rare. Most real loops sit between 0.1 and 0.6, so they amplify other channels rather than replace them. A loop at 0.5 turns every 100 users you acquire elsewhere into roughly 200 over time, halving your effective acquisition cost.
 
 The k-factor is the same idea from the viral marketing literature: invites per user multiplied by invite conversion, so four invites at 12.5 percent gives k of 0.5. Measure it per cohort within a fixed window, such as invites sent in the first 30 days; a k-factor that mixes every user who ever signed up with every invite ever sent flatters the result.
 
-Once the loop is written as steps, find the constraint: the step that costs the most volume and is cheapest to change. Usually it is one of three. Too few users reach the step that starts the loop, in which case the real work is activation (week 17). Or the trigger is weak: the share exists but sits three clicks deep, or the default is private. Figma's decision to make sharing a link the natural way to show work, rather than exporting an image, set its loop throughput. Or the new person lands badly, hitting a signup wall before seeing anything. Loom handles that well: you watch the video, and only recording or commenting needs an account.
+Then find the constraint: the step that costs the most volume and is cheapest to change. Usually it is one of three. Too few users reach the step that starts the loop, in which case the real work is activation (week 17). Or the trigger is weak: the share exists but sits three clicks deep, or the default is private. Figma's decision to make sharing a link the natural way to show work, rather than exporting an image, set its loop throughput. Or the new person lands badly, hitting a signup wall before seeing anything. Loom handles that well: you watch the video, and only recording or commenting needs an account.
 
 Cycle time is the most ignored lever. Shortening a loop from 21 days to 7 triples the cycles per quarter, and compounding is exponential in cycles. Prompt the loop action during onboarding, remove setup steps between signup and the shareable moment, and remind users who have not acted within the usual window.
 
@@ -76,7 +76,7 @@ The failure mode is optimizing a loop nobody is in. If activation is 20 percent,
 
 ### 4. Product-led growth: free tier, trial, and reverse trial
 
-Product-led growth means the product is the primary way you acquire, convert, and expand customers. The Wikipedia article in the readings gives the definition; the mechanics are the useful part.
+Product-led growth means the product is the primary way you acquire, convert, and expand customers. The Wikipedia article in the readings defines it; the mechanics are the useful part.
 
 ![Product-led growth motion: discover, try without talking to anyone, reach first value, habit forms, hit a limit, upgrade or expand](images/w16-plg-motion.svg)
 
@@ -86,7 +86,7 @@ PLG fits when a user can get real value alone in one session, when what they get
 
 **Free tier (freemium).** A permanently free version limited by seats, usage, or features. It works when marginal cost per free user is near zero, when free users are part of a loop, and when the limit is something a successful user naturally outgrows. Slack's free plan limited searchable history, so a team that genuinely adopted it eventually hit a wall that mattered. Figma is free for individual use and charges per editor. GitHub was free for public repositories and charged for private ones, which turned open source into its distribution. The failure mode is a free tier so generous nobody upgrades, or so stingy nobody reaches value. You will revisit the line in week 20.
 
-**Free trial.** Full product, limited time. It works when value takes a few sessions to appear and usage is continuous rather than occasional. The failure mode is the 30-day trial where the user signs up, does nothing for 29 days, and gets an expiry email. Trial length should match your natural usage cycle, and every day of it should be an onboarding campaign (week 13).
+**Free trial.** Full product, limited time. It works when value takes a few sessions to appear and usage is continuous. The failure mode is the 30-day trial where the user signs up, does nothing for 29 days, and gets an expiry email. Trial length should match your usage cycle, and every day of it should be an onboarding campaign (week 13).
 
 **Reverse trial.** The user starts on the full paid experience for a short window without a credit card, then drops to the free tier rather than to nothing. Elena Verna has made the strongest case for this shape, and the logic holds: the user sees what they are missing before you take it away, and if they do not convert you keep them in the loop as a free user. Canva's approach, where a new user can try paid features and then continues on the free plan, is the consumer version. It is the best default when you have both a viable free tier and meaningful premium features.
 
@@ -96,13 +96,13 @@ Two rules hold whichever you choose. No credit card up front unless your product
 
 Three mechanics turn the PLG motion into revenue.
 
-**Activation** is the point where a new user has experienced enough value to come back. Week 17 covers defining and measuring it; here the point is that activation is where your loop and your revenue both live. Onboarding is the most important marketing surface you own: more prospects see it than will ever see your homepage a second time, and it is the only marketing asset that runs while the user is deciding.
+**Activation** is the point where a new user has experienced enough value to come back. Week 17 covers measuring it; here the point is that activation is where your loop and your revenue both live. Onboarding is the most important marketing surface you own: more prospects see it than will ever see your homepage a second time, and it is the only marketing asset that runs while the user is deciding.
 
 Design it like a landing page from week 6. Cut every step not required to reach value, pre-fill what you can, and use sample data or a template so an empty state is never the first thing a user sees, as Notion does with templates and Airtable with starter bases. Ask for the invite or the share at the moment it fits the workflow, not in a modal on day one.
 
-**Self-serve upgrade** means a user can hit the limit, understand why, and pay without talking to anyone. Three details decide whether it works. The limit must be visible before it is hit, so nobody is surprised into churn (a usage meter, not a hard stop). The upgrade prompt must appear at the moment of blocked intent, in the context of what the user was doing, not in a general pricing email. And checkout must be short: every field is a conversion tax on the highest-intent moment you will get.
+**Self-serve upgrade** means a user can hit the limit, understand why, and pay without talking to anyone. The limit must be visible before it is hit, so nobody is surprised into churn (a usage meter, not a hard stop). The upgrade prompt must appear at the moment of blocked intent, in the context of what the user was doing, not in a general pricing email. And checkout must be short: every field is a tax on the highest-intent moment you will get.
 
-**Sales assist** is the part founders skip and rediscover expensively. Self-serve gets you individuals and small teams. It does not get you the 200-seat contract, the security questionnaire, or the annual invoice procurement requires. Sales assist means a human enters at a defined trigger rather than at the start.
+**Sales assist** is the part founders skip and rediscover expensively. Self-serve gets you individuals and small teams, not the 200-seat contract, the security questionnaire, or the annual invoice procurement requires. Sales assist means a human enters at a defined trigger rather than at the start.
 
 Define that trigger with product data, not form fills: active users inside one company domain cross a threshold, a user hits an enterprise-only feature such as SSO or audit logs, or someone from a week 3 target account signs up. This is a product-qualified lead, and it beats a whitepaper download because it is behavior rather than curiosity.
 
@@ -118,7 +118,7 @@ These two get used interchangeably and they are different things. **Virality** i
 
 *Each added participant creates connections to everyone already present: value to each user rises with the number of users.*
 
-You can have either without the other. Dropbox's referral loop was viral without strong network effects, since your files are not more useful because a stranger also uses Dropbox. Figma has both: sharing a file brings new users, and a design file is more useful when your whole team is in it.
+You can have either without the other. Dropbox's referral loop was viral without strong network effects: your files are not more useful because a stranger uses Dropbox. Figma has both: sharing a file brings new users, and a design file is more useful when your whole team is in it.
 
 Two practical implications. First, network effects are usually local, not global. Slack's operates inside a workspace, not across all Slack users worldwide, which means you can build real network effects with a handful of customers rather than dominating a market. Ask whether the tenth person at a customer makes the product better for the first nine. If yes, your strategy should be depth inside accounts, not breadth across them.
 
@@ -137,20 +137,20 @@ Second, they are neither automatic nor permanent. Hagiu and Rothman's HBR piece 
 
 ## Recommended reading
 
-- [Growth Loops are the New Funnels (Reforge)](https://www.reforge.com/blog/growth-loops). What to take from it: the loop framing, the taxonomy, and why you pick one loop rather than run several.
-- [Growth Hacker is the new VP Marketing, the Airbnb and Craigslist case study, Andrew Chen](https://andrewchen.com/how-to-be-a-growth-hacker-an-airbnbcraigslist-case-study/). What to take from it: how a loop can be built on someone else's distribution, and why growth work is product work.
+- [Growth Loops are the New Funnels (Reforge)](https://www.reforge.com/blog/growth-loops). What to take from it: the loop framing and why you pick one loop rather than run several.
+- [Growth Hacker is the new VP Marketing, the Airbnb and Craigslist case study, Andrew Chen](https://andrewchen.com/how-to-be-a-growth-hacker-an-airbnbcraigslist-case-study/). What to take from it: how a loop is built on someone else's distribution, and why growth work is product work.
 - [The Law of Shitty Clickthroughs, Andrew Chen](https://andrewchen.com/the-law-of-shitty-clickthroughs/). What to take from it: the reason funnel-only growth decays, in one short essay.
 - [The Network Effects Bible, NFX](https://www.nfx.com/post/network-effects-bible). What to take from it: the catalogue of network effect types and their strength, so you can name which one you have.
-- [Network Effects Aren't Enough, Hagiu and Rothman (HBR, 2016)](https://hbr.org/2016/04/network-effects-arent-enough). What to take from it: the failure cases, and when a network effect is worth building a strategy on.
+- [Network Effects Aren't Enough, Hagiu and Rothman (HBR, 2016)](https://hbr.org/2016/04/network-effects-arent-enough). What to take from it: the failure cases, and when a network effect is worth a strategy.
 - [Product-led growth resources, OpenView](https://openviewpartners.com/product-led-growth/). What to take from it: the vocabulary (product-qualified lead, self-serve, expansion) and benchmarks for free-to-paid conversion in software.
-- Book: Product-Led Growth, Wes Bush, the chapters on choosing a free model and on the onboarding path ([author page](https://productled.com/)). What to take from it: a decision framework for free tier versus trial based on price, time to value, and market strategy.
+- Book: Product-Led Growth, Wes Bush, the chapters on choosing a free model and on onboarding ([author page](https://productled.com/)). What to take from it: a decision framework for free tier versus trial based on price and time to value.
 
 ## Hands-on exercise (2 to 4 hours)
 
 **Deliverable:** a one-page growth loop document in your company wiki: a numbered loop, throughput and cycle time measured from your own data, the named constraint with a fix, and a free-to-paid decision.
 
 **Steps:**
-1. (20 minutes) List the loops your product could run using the types in concept 2. For each, write the requirement and whether your product meets it. Cross out the rest. Most founders end with one or two.
+1. (20 minutes) List the loops your product could run using the types in concept 2. For each, write the requirement and whether your product meets it. Cross out the rest.
 2. (30 minutes) Write the strongest candidate as numbered steps in the template below. Every step must name a product surface: a button, a link, a page, an email. If a step has no surface, the loop is not closed.
 3. (40 minutes) Pull the numbers. For each step, get the conversion rate for one cohort (users who signed up in a single month, at least 30 days ago). If you cannot measure a step, write "not instrumented" rather than guessing.
 4. (15 minutes) Multiply the rates for throughput. Add the delays for cycle time. Write both at the top with the cohort you used.
@@ -186,8 +186,7 @@ FREE-TO-PAID MODEL
   Why a good user hits it:
   Sales assist trigger:    <product event and threshold, or none>
 
-NOT INSTRUMENTED (add these events):
-  -
+NOT INSTRUMENTED:
 ```
 
 **How to know it is good:**
@@ -212,10 +211,10 @@ Answer these without looking back. If you cannot, reread the relevant section.
 
 **You are done with this week when:**
 - [ ] One loop is written as numbered steps, each with a named product surface.
-- [ ] Throughput and cycle time are measured from a real cohort, with uninstrumented steps listed.
-- [ ] The top constraint is named with a change you can ship this month and the expected throughput effect.
+- [ ] Throughput and cycle time are measured from a real cohort.
+- [ ] The top constraint is named with a change you can ship this month and its expected effect.
 - [ ] Your free-to-paid model and sales assist trigger are decided in writing.
 
 ## Next week
 
-Every loop you just drew assumes the people entering it stay long enough to complete it. Next week is retention: reading cohort curves, defining activation with a measurable event, diagnosing why customers leave, and fixing the leak that is capping the loop you designed this week.
+Every loop you just drew assumes the people entering it stay long enough to complete it. Next week is retention: reading cohort curves, defining activation with a measurable event, diagnosing why customers leave, and fixing the leak capping the loop you designed this week.

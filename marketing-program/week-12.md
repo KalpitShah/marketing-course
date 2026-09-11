@@ -8,9 +8,9 @@
 
 In week 9 you placed your product in a quadrant by contract value and time to value, picked two focus channels, and wrote thresholds for a test. Paid was probably on your list. This week is where you find out whether it belongs there.
 
-Understand this before anything else: paid acquisition is a scale lever, not a discovery tool. It amplifies a machine that already works. If a stranger who lands on your site converts, activates, and stays, paid lets you buy more of those strangers at a price you can calculate. If that machine does not work yet, paid buys a larger number of people who bounce.
+Understand this before anything else: paid acquisition is a scale lever, not a discovery tool. It amplifies a machine that already works. If a stranger who lands on your site converts, activates, and stays, paid buys more of those strangers at a price you can calculate. If that machine does not work, paid buys more people who bounce.
 
-Most technical founders get this backwards. They treat ads as a way to find out whether anyone wants the product, because ads feel like an experiment. But the signal is noisy and each observation is expensive: five customer interviews (week 2) tell you more about demand than $2,000 of cold traffic.
+Most technical founders get this backwards. They treat ads as a way to find out whether anyone wants the product, because ads feel like an experiment. But the signal is noisy and each observation is expensive: five customer interviews (week 2) tell you more than $2,000 of cold traffic.
 
 The other thing founders get wrong is the arithmetic, which is odd, because arithmetic is the part you should be best at. A founder who has not multiplied out cost per click, signup rate, signup-to-paid rate, gross margin, and retention has no business spending a dollar on ads. That multiplication takes twenty minutes and it is the core of this week. When you know that $1 in at the top produces $3 of gross profit over twenty months, growth becomes a financing question rather than a marketing question. That is why paid is worth understanding even if you conclude, as many software companies correctly do, that you should not run ads yet.
 
@@ -34,13 +34,13 @@ This is why a relevant advertiser pays less than an irrelevant one for the same 
 
 That picture explains the prices you will see. A click from someone searching "SOC 2 compliance software" costs many times a click from someone scrolling a feed: the searcher is scarce and close to a purchase, and everyone in the category wants them. It is also why costs rise every year in established categories, and why a narrower, less contested market is a pricing strategy, not just a positioning one.
 
-Automated bidding works only with enough conversion data to learn from: below roughly 30 conversions a month it is guessing, so start with manual or cost-capped bidding.
+Automated bidding works only with enough conversion data to learn from, so below roughly 30 conversions a month, bid manually or with a cost cap.
 
 Failure mode: broad match keywords with no negative list. Broad match lets the platform decide which queries are close enough to yours, so without negatives you will pay for "free", "jobs", "tutorial", and competitor complaints. Pull the search terms report daily in week one.
 
 ### 2. The arithmetic: CAC, payback period, and LTV to CAC
 
-Read this section twice. Everything else in paid acquisition is decoration on this arithmetic.
+Everything else in paid acquisition is decoration on this arithmetic.
 
 ![Funnel showing spend, clicks at a cost per click, signups at a conversion rate, paying customers, and the resulting CAC, LTV and LTV to CAC ratio](images/w12-cac-math.svg)
 
@@ -57,8 +57,8 @@ Work the example by hand. Spend $10,000. At $5 a click that is 2,000 clicks. At 
 Now the part that makes this useful: change one input at a time.
 
 - Cost per click $5 to $4 (better relevance): CAC about $308, ratio 3.1.
-- Landing page conversion 8 to 10 percent (copy and offer, week 6): CAC about $308.
-- Signup-to-paid 16 to 20 percent (onboarding, week 17): CAC about $308.
+- Landing page conversion 8 to 10 percent (week 6 copy work): CAC about $308.
+- Signup-to-paid 16 to 20 percent (week 17 onboarding): CAC about $308.
 - Retention 20 to 26 months: LTV about $1,250, ratio 3.2.
 
 Four levers, roughly equal effect, and three have nothing to do with your ad account. When paid does not work, the fix is usually in conversion, activation, retention, or price. Founders who skip the model spend months tuning bids to rescue a funnel whose real problem is that 84 percent of signups never activate.
@@ -73,17 +73,15 @@ Every paid channel does one job well. Choosing the wrong channel for your job is
 
 *Match your situation to the second column first; the targeting signal in the third column tells you what data you need before you can set a campaign up at all.*
 
-**Google Search captures demand that exists.** Someone typing "alternative to [tool]" has told you what they want: the highest intent you can buy, and the most expensive per click. It fails when your product is genuinely new, because nobody searches for a category that does not exist. Three sub-plays: bid on your own brand (cheap, and it stops competitors appearing above you, which is why HubSpot and most large SaaS companies do it defensively), bid on competitor brand terms (keywords are generally permitted, their trademark in your ad text is not, and it works only alongside an honest comparison page of the kind you planned in week 11), and bid on high-intent tail queries from your keyword map.
+**Google Search captures demand that exists.** Someone typing "alternative to [tool]" has told you what they want: the highest intent you can buy, and the most expensive per click. It fails when your product is genuinely new, because nobody searches for a category that does not exist. Three sub-plays: bid on your own brand (cheap, and it stops competitors appearing above you, which is why HubSpot and most large SaaS companies do it defensively), bid on competitor brand terms (keywords are generally permitted, their trademark in your ad text is not, and it works only alongside an honest comparison page from week 11), and bid on the high-intent tail queries in your keyword map.
 
-**LinkedIn reaches a defined B2B audience** by title, company, and seniority. If your ICP from week 3 is "heads of data engineering at companies over 200 people", this is the only channel that sells exactly that. You pay for the precision: costs per click run several times search costs, so LinkedIn rarely works below roughly $10,000 to $15,000 in annual contract value. You are interrupting rather than answering, so benchmark reports and webinars outperform "book a demo".
+**LinkedIn reaches a defined B2B audience** by title, company, and seniority. If your ICP from week 3 is "heads of data engineering at companies over 200 people", this is the only channel that sells exactly that. You pay for the precision: costs per click run several times search costs, so LinkedIn rarely works below roughly $10,000 to $15,000 in annual contract value. You are interrupting rather than answering, so benchmark reports outperform "book a demo".
 
-**Meta and TikTok create demand rather than capture it.** Nobody there is looking for you. You win with creative people want to watch and a product with broad appeal. Dollar Shave Club is the reference case. For narrow B2B these platforms usually disappoint, with an exception where the buyer is also a consumer, as Grammarly found with heavy video advertising to students and professionals.
+**Meta and TikTok create demand rather than capture it.** Nobody there is looking for you. You win with creative people want to watch and a product with broad appeal; Dollar Shave Club is the reference case. For narrow B2B they usually disappoint, with an exception where the buyer is also a consumer, as Grammarly found with heavy video advertising.
 
 **Newsletter and podcast sponsorships buy trusted reach into a niche**, because the recommendation carries the writer's credibility; Squarespace built much of its brand on podcast sponsorships over many years. The tradeoff is attribution, so use a promo code or dedicated URL per sponsor.
 
-**Retargeting nudges people who already visited.** Cheap, high converting on paper, and systematically over-credited, because many of those people were coming back anyway. Cap frequency, exclude customers, keep the budget small.
-
-**Review sites (G2, Capterra)** sell placement to buyers comparing options, and **Reddit** can be cheap when your ICP lives in specific subreddits, though that audience punishes anything that reads like an ad.
+**Retargeting nudges people who already visited.** Cheap, high converting on paper, and systematically over-credited, because many of those people were coming back anyway. Cap frequency, exclude customers, and keep the budget small.
 
 Failure mode: running three channels at once on a small budget. Each gets too little data to conclude anything. Pick one, per week 9, and go deep enough to get a signal.
 
@@ -95,9 +93,9 @@ Inside a channel, three things decide whether the money works: the hook, the off
 
 **The offer** is what you ask for. "Book a demo" is a large ask from a stranger; a calculator, a benchmark report, or a trial with no card are smaller asks that still reveal intent. Match the ask to the temperature of the traffic: high-intent search can take a trial, cold feed traffic usually cannot.
 
-**Message match** means the landing page continues the ad's sentence. If the ad says "Postgres monitoring without the agent", the page headline says that, not "Observability, reimagined". Mismatch is the most common reason paid underperforms, and it raises your cost per click through the quality signal in concept 1, so you pay twice for one mistake. Build a dedicated page per campaign: one headline repeating the ad's promise, one proof element, one call to action used twice, nothing else. Your homepage is a bad landing page because it is written for every audience at once.
+**Message match** means the landing page continues the ad's sentence. If the ad says "Postgres monitoring without the agent", the page headline says that, not "Observability, reimagined". Mismatch is the most common reason paid underperforms, and it raises your cost per click through the quality signal in concept 1, so you pay twice for one mistake. Build a dedicated page per campaign: one headline repeating the ad's promise, one proof element, one call to action used twice, nothing else. Your homepage is written for every audience at once, which makes it a bad landing page.
 
-Plan for creative fatigue on feed platforms. The same ad to the same audience decays within weeks, which is Andrew Chen's law of shitty clickthroughs from week 9 on fast-forward. Budget for batches of cheap variants, not one expensive production.
+Expect creative fatigue on feed platforms: the same ad to the same audience decays within weeks, which is week 9's law of shitty clickthroughs on fast-forward.
 
 Failure mode: testing ten variables at once. Change the hook, hold everything else. Then change the offer. You cannot learn from a test where three things moved.
 
@@ -105,9 +103,9 @@ Failure mode: testing ten variables at once. Change the hook, hold everything el
 
 You can see less than the dashboards suggest.
 
-Start with plumbing. Tag every ad destination with UTM parameters using one convention decided in advance: source, medium, campaign, content. Sloppy UTMs, where one campaign is "Q3-Launch" and another is "q3_launch", quietly destroy a quarter of reporting. Then define conversion events deeper than the click: signup, activation (the week 17 definition), and paid conversion. Send the signup event back to the platform so its optimization learns from something real, but judge the channel yourself on activation and revenue. Store the UTM values on the user record at signup so that months later you can join a paying customer to the ad that brought them.
+Start with plumbing. Tag every ad destination with UTM parameters using one convention decided in advance: source, medium, campaign, content. Sloppy UTMs quietly destroy a quarter of reporting. Define conversion events deeper than the click (signup, activation, paid conversion), send the signup event back to the platform so its optimization learns from something real, and store the UTM values on the user record at signup so that months later you can join a paying customer to the ad that brought them.
 
-Now the caveats, because this is where founders get fooled.
+Now the caveats.
 
 **Platforms mark their own homework.** Each counts a conversion if it showed the person an ad within some window, often 7 to 28 days, sometimes including view-throughs with no click. Run Google, Meta, and LinkedIn together and their claimed conversions will exceed your actual signups. Each is truthful by its own rules; none tells you what would have happened without the ads.
 
@@ -131,13 +129,13 @@ Here is how to run the test, and it is deliberately boring.
 
 **Week one: instrumentation.** Events firing and verified, UTMs set, landing pages live, budget caps and negatives in place. Do not launch until a test signup appears in your analytics with its UTM attached.
 
-**Week two: launch two or three ad sets**, each with a distinct audience or hook, on identical budgets. Two or three, not ten: you need enough spend per variant to separate it from noise. Check search terms daily for waste, but leave bids alone, because platform learning needs stability.
+**Week two: launch two or three ad sets**, each with a distinct audience or hook, on identical budgets. Two or three, not ten: you need enough spend per variant to separate it from noise. Check search terms daily for waste, but leave bids alone.
 
 **Week three: cut and concentrate.** Kill the worse variants and move their budget to the leaders, judging on cost per activated signup and on the quality check, not click-through rate. Look at the actual signups: are they your ICP, or students and job seekers?
 
-**Week four: decide, and write it down.** **Scale**: the threshold was hit and the economics sit inside your model, so raise budget by no more than 20 to 30 percent a week. **Iterate**: results are near the threshold and you have one named change worth another four weeks. One iteration, not four. **Stop**: it missed and you have no specific hypothesis, so turn it off and return to what works. Stopping is a good outcome; you bought information at a price you set in advance.
+**Week four: decide, and write it down.** **Scale**: the threshold was hit and the economics sit inside your model, so raise budget by no more than 20 to 30 percent a week. **Iterate**: results are near the threshold and you have one named change worth four more weeks. One iteration, not four. **Stop**: it missed and you have no hypothesis, so turn it off. Stopping is a good outcome; you bought information at a price you set in advance.
 
-Two reasons not to run this test at all. If activation is poor, fix that first, because paid multiplies whatever your funnel does, including failure. And if demand is unproven, paid is the wrong instrument, which is why plenty of good companies did no paid for years: Superhuman grew through a waitlist, referrals, and one-to-one onboarding long before buying traffic. Companies at the other extreme, like Monday.com, run paid at very large scale, but only with a funnel and retention curve that made the arithmetic work first.
+Two reasons not to run this test at all. If activation is poor, fix that first, because paid multiplies whatever your funnel does, including failure. And if demand is unproven, paid is the wrong instrument, which is why plenty of good companies did no paid for years: Superhuman grew through a waitlist, referrals, and one-to-one onboarding long before buying traffic. Companies that do run paid at very large scale, like Monday.com, got the funnel and the retention curve working first.
 
 Failure mode: the test that never ends. Without a written kill threshold you will remember the setup effort and the one promising week, and keep campaigns burning for six months.
 
@@ -147,40 +145,37 @@ Failure mode: the test that never ends. Without a written kill threshold you wil
   Why watch: the mechanics of a search campaign, keywords, match types, and negatives, from the platform itself; about 30 to 60 minutes.
 - [Facebook Ads for Beginners, Meta Blueprint](https://www.youtube.com/watch?v=D6YsysCNA5c)
   Why watch: audience targeting and creative testing on a demand-creation platform, a different discipline from search; about 30 to 45 minutes.
-- [Growth marketing, Julian Shapiro](https://www.youtube.com/watch?v=0Pnhdpa5P-k)
+- [Unconventional Growth Tactics, Julian Shapiro (interview)](https://www.youtube.com/watch?v=0Pnhdpa5P-k)
   Why watch: a practitioner's view of creative testing and how to structure paid experiments; about 30 to 45 minutes.
-- [Growth talk, Andrew Chen (a16z)](https://www.youtube.com/watch?v=IxzoAwS0paA)
+- [The Basics of Growth: User Acquisition, Andrew Chen (a16z Podcast)](https://www.youtube.com/watch?v=IxzoAwS0paA)
   Why watch: why paid channels decay, why low-CAC growth is the goal, and how paid fits alongside loops; about 30 minutes.
 
 ## Recommended reading
 
 - [Ads, Julian Shapiro (Growth Handbook)](https://www.julian.com/guide/startup/growth-channels). What to take from it: the sequence for testing a paid channel and how much budget a real test needs.
-- [PPC 101, WordStream](https://www.wordstream.com/ppc). What to take from it: the vocabulary and account structure, so the interfaces stop being confusing.
+- [PPC 101, WordStream](https://www.wordstream.com/ppc). What to take from it: the vocabulary and account structure, so the interfaces stop confusing you.
 - [Quality Score explained, WordStream](https://www.wordstream.com/quality-score). What to take from it: why relevance lowers your cost per click, and the components you can influence.
 - [Startup Killer: the Cost of Customer Acquisition, David Skok](https://www.forentrepreneurs.com/startup-killer/). What to take from it: why payback period, not the ratio alone, decides whether you survive.
 - [The Law of Shitty Clickthroughs, Andrew Chen](https://andrewchen.com/the-law-of-shitty-clickthroughs/). What to take from it: every ad format decays, so plan creative refresh and an exit before you need them.
 - [Attribution (marketing), Wikipedia](https://en.wikipedia.org/wiki/Attribution_(marketing)). What to take from it: the model families and their assumptions, as an inoculation against dashboard confidence.
-- [Customer lifetime value, Wikipedia](https://en.wikipedia.org/wiki/Customer_lifetime_value). What to take from it: the formal LTV models, and the reminder to use gross margin and a capped horizon.
-- [Google Skillshop](https://skillshop.withgoogle.com/). What to take from it: free search advertising certifications if you will run the channel yourself.
 
 ## Hands-on exercise (2 to 4 hours)
 
 **Deliverable:** one spreadsheet with two tabs, saved in your company wiki: tab 1 a unit economics model with a sensitivity table, tab 2 a four-week paid test plan for a single channel with budget, tracking, creative variants, and a written stop rule.
 
 **Steps:**
-1. (30 minutes) Build the model with your real numbers: visitor-to-signup rate, signup-to-paid rate, revenue per customer per month, gross margin, retention in months. Mark every guess in red with a note on where the real number will come from.
-2. (20 minutes) Get a cost per click estimate from the platform's keyword planner or audience estimator, using queries or audiences from weeks 9 and 11. Take the high end.
-3. (20 minutes) Compute CAC, payback, and LTV to CAC, put them at the top of the tab, and judge them: payback under 12 months, ratio at or above 3.
-4. (30 minutes) Build the sensitivity table: vary each of the four inputs by plus and minus 25 percent, one at a time, then rank the levers by effect and name an owner for each.
-5. (15 minutes) Make the go or no-go call in writing. If the model only works with three optimistic assumptions at once, the verdict is "not yet", and the next sentence names the lever you are fixing instead.
-6. (30 minutes) If it is a go, write the test plan: hypothesis, primary metric, quality check against the week 3 scorecard, budget cap, four-week duration, and the kill threshold as a number.
-7. (30 minutes) Define tracking: UTM convention, the three conversion events, where the UTM is stored on the user record, and the "How did you hear about us?" field on your signup form.
-8. (45 minutes) Draft two or three ad sets (audience, hook, offer, landing page), noting the single variable that differs, then send both tabs to a cofounder and calendar the week-four decision.
+1. (40 minutes) Build the model with your real numbers: visitor-to-signup rate, signup-to-paid rate, revenue per customer per month, gross margin, retention in months. Mark every guess in red with a note on where the real number will come from, then get a cost per click estimate from the platform's keyword planner or audience estimator.
+2. (20 minutes) Compute CAC, payback, and LTV to CAC, put them at the top of the tab, and judge them: payback under 12 months, ratio at or above 3.
+3. (30 minutes) Build the sensitivity table: vary each of the four inputs by plus and minus 25 percent, one at a time, then rank the levers by effect and name an owner for each.
+4. (15 minutes) Make the go or no-go call in writing. If the model only works with three optimistic assumptions at once, the verdict is "not yet", and the next sentence names the lever you are fixing instead.
+5. (30 minutes) If it is a go, write the test plan: hypothesis, primary metric, quality check against the week 3 scorecard, budget cap, four-week duration, and the kill threshold as a number.
+6. (30 minutes) Define tracking: UTM convention, the three conversion events, where the UTM is stored on the user record, and the "How did you hear about us?" field.
+7. (45 minutes) Draft two or three ad sets (audience, hook, offer, landing page), noting the single variable that differs, then send both tabs to a cofounder and calendar the week-four decision.
 
 **Template:**
 
 ```
-UNIT ECONOMICS MODEL      Channel: ____   Date: ____
+UNIT ECONOMICS MODEL   Channel: ____   Date: ____
 
 INPUTS   budget $__  CPC $__  visitor-to-signup __%
          signup-to-paid __%  revenue/month $__
@@ -189,14 +184,13 @@ INPUTS   budget $__  CPC $__  visitor-to-signup __%
 OUTPUTS  clicks    = budget / CPC
          signups   = clicks x visitor-to-signup
          customers = signups x signup-to-paid
-         CAC       = budget / customers          $__
-         profit/mo = revenue x margin            $__
-         payback   = CAC / profit per month      __
+         CAC       = budget / customers           $__
+         profit/mo = revenue x margin             $__
+         payback   = CAC / profit per month        __
          LTV       = profit per month x retention $__
-         LTV:CAC   = LTV / CAC                   __
+         LTV:CAC   = LTV / CAC                     __
 
 VERDICT  payback under 12 months? [ ]  LTV:CAC 3+? [ ]
-GO / NO-GO:          Reason:
 ```
 
 | Lever | Current | Minus 25% | Plus 25% | LTV:CAC swing | Owner |
@@ -217,16 +211,16 @@ KILL THRESHOLD (before launch): fewer than __ activated ICP
 
 W1 setup   [ ] events [ ] UTMs [ ] pages [ ] negatives [ ] caps
 W2 launch  ad set A ____  B ____  C ____
-W3 cut     kill above $__ per activated signup, shift to winner
-W4 verdict SCALE / ITERATE (one named change) / STOP
-Owner: ____  Reviewer: ____  Decision date: ____
+W3 cut     kill above $__ per activated signup
+W4 verdict SCALE / ITERATE (one change) / STOP
+Owner: ____  Reviewer: ____  Date: ____
 ```
 
 **How to know it is good:**
 - Every input is a measured number or marked as a guess with a plan to measure it.
-- The sensitivity table ranks the four levers and you can say which to fix first and who owns it.
+- The sensitivity table ranks the four levers, and you can say which to fix first and who owns it.
 - The kill threshold is a number written before any money is spent, and someone else has agreed to hold you to it.
-- The primary metric reaches at least activation, not clicks or raw signups, and the budget produces roughly 30 or more conversions in four weeks.
+- The primary metric reaches activation, not clicks, and the budget produces roughly 30 conversions in four weeks.
 
 ## Self-check
 
@@ -236,10 +230,8 @@ Answer these without looking back. If you cannot, reread the relevant section.
 2. What are the three components of Quality Score, and why does relevance act as a price discount?
 3. Work it out: $8,000 spend, $4 per click, 5 percent visitor-to-signup, 20 percent signup-to-paid. What is CAC? If customers pay $99 a month at 75 percent gross margin and stay 18 months, what are payback and LTV to CAC, and would you scale?
 4. Which two of the four CAC levers are usually owned outside marketing, and why does that matter when paid is not working?
-5. Why does blended CAC flatter your paid channel, and when would you look at it anyway?
-6. Name three reasons your ad platform reports more conversions than you actually got, and what incrementality testing does about it.
-7. Your LinkedIn campaign has a good cost per click and terrible signup quality. Name three things to check before touching bids.
-8. Give the three verdicts at the end of a four-week test and the condition that triggers each.
+5. Name three reasons your ad platform reports more conversions than you actually got, and what incrementality testing does that attribution cannot.
+6. Give the three verdicts at the end of a four-week test and the condition that triggers each.
 
 **You are done with this week when:**
 - [ ] The unit economics model is built with real or flagged inputs, and CAC, payback, and LTV to CAC are written at the top.

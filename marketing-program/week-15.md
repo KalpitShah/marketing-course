@@ -130,7 +130,7 @@ The failure mode is listing on every marketplace and maintaining none. A stale l
   Why watch: how to measure devrel without pretending talks are leads, including the devrel qualified lead concept; about 30 to 45 minutes.
 - [Kelsey Hightower on developer community and open source](https://www.youtube.com/watch?v=eb0442K_zmY)
   Why watch: the most credible explanation of why generosity, live demos, and helping people succeed are what build developer trust; length varies by talk, pick one around 30 minutes.
-- [Figma's growth and community (Lenny's Podcast and talks)](https://www.youtube.com/watch?v=UmirRfy-gzA)
+- [An inside look at Figma's go-to-market motion, Claire Butler (Lenny's Podcast)](https://www.youtube.com/watch?v=UmirRfy-gzA)
   Why watch: how the Figma Community and Config turned users into contributors, and what Figma did deliberately versus what happened on its own; about an hour.
 - [Patrick Collison on developers as customers (Stripe)](https://www.youtube.com/watch?v=WU-lBOAS1VQ)
   Why watch: why Stripe treated documentation and developer experience as the product, and how that decided its distribution; about an hour, the first half is the relevant part.

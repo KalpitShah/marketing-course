@@ -112,7 +112,7 @@ Tool churn has a cost beyond subscriptions: every migration loses data and break
   Why watch: a former Drift and Privy marketing leader on running lean marketing teams and what founders should expect from a first marketer, roughly 30 to 45 minutes.
 - [How to Improve Conversion Rates, Kevin Hale (Y Combinator)](https://www.youtube.com/watch?v=PGqX9fpweyc)
   Why watch: a reminder, before you automate or generate anything, that conversion comes from clarity and speed; about 25 minutes.
-- [Tobi Lütke on Shopify's marketing and merchants (interview)](https://www.youtube.com/watch?v=WxIO08ETcXQ)
+- [Tobi Lütke on Shopify and starting small (How I Built This)](https://www.youtube.com/watch?v=WxIO08ETcXQ)
   Why watch: a technical founder on building a company where tools serve merchants rather than the other way around, and on keeping the team small relative to its reach; length varies, usually about an hour.
 
 ## Recommended reading

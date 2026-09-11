@@ -132,7 +132,7 @@ A note on the company account. Keep one, post product news and repost the founde
   Why watch: the argument that remarkable means "worth making a remark about", which is the test every post should pass; about 17 minutes.
 - [Rand Fishkin on zero-click search and audience research (SparkToro)](https://www.youtube.com/watch?v=B35eQ7keoGA)
   Why watch: Fishkin's data on how platforms keep users on-platform explains why you should post native content rather than links, and why dark social is growing; about 40 minutes.
-- [Notion's growth (Lenny's Podcast with Notion growth leaders)](https://www.youtube.com/watch?v=bY5KC9Gguz8)
+- [How Notion leveraged community to build a $10B business, Camille Ricketts (Lenny's Podcast)](https://www.youtube.com/watch?v=bY5KC9Gguz8)
   Why watch: how a community of enthusiastic users on social became a deliberate program, and what Notion did and did not control; about an hour.
 
 ## Recommended reading

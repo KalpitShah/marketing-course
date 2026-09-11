@@ -110,7 +110,7 @@ The failure mode is running the loop without step one. Founders redesign the her
   Why watch: a Startup School lecture on landing pages and signup flows from the Wufoo cofounder, with the "first date" framing for asking users for information. About 45 minutes.
 - [Conversion optimization talk, Peep Laja (CXL)](https://www.youtube.com/watch?v=hSR_TtaQcIs)
   Why watch: the research-first approach to conversion work, and a healthy skepticism of tactics lists. Pick the top result; typically 30 to 45 minutes.
-- [Growth marketing talk, Julian Shapiro](https://www.youtube.com/watch?v=0Pnhdpa5P-k)
+- [Unconventional Growth Tactics, Julian Shapiro (interview)](https://www.youtube.com/watch?v=0Pnhdpa5P-k)
   Why watch: Shapiro walks through landing page structure and the relationship between ads and pages in the same plain style as his written handbook. Usually 30 to 60 minutes.
 - [Dollar Shave Club launch video (2012)](https://www.youtube.com/watch?v=ZUG9qYTJMsI)
   Why watch: 90 seconds. Study it as a landing page in video form: one promise, one proof, one action, and the pain named in the customer's words.

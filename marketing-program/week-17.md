@@ -122,7 +122,7 @@ The failure mode: chasing NRR through aggressive upsell before logo retention is
 
 - [What is good retention, Lenny Rachitsky (talk)](https://www.youtube.com/results?search_query=lenny+rachitsky+what+is+good+retention) (YouTube search)
   Why watch: the clearest walk through category benchmarks and why the shape of the curve matters more than the number; about 30 minutes.
-- [Elena Verna on retention (Reforge and other talks)](https://www.youtube.com/watch?v=9FHYtjw6mjs)
+- [Growth Frameworks for Acquisition, Monetization and Retention, Elena Verna](https://www.youtube.com/watch?v=9FHYtjw6mjs)
   Why watch: Verna ran growth at SurveyMonkey and Miro and explains retention as the input to every other growth lever, with practical detail on activation; 30 to 60 minutes depending on the talk.
 - [Retention analysis tutorial (Amplitude)](https://www.youtube.com/watch?v=6oDGzu2Hxlw)
   Why watch: a hands-on look at building cohort charts and finding the aha event in a product analytics tool, so you can replicate it in whatever tool you use; about 15 minutes.
