@@ -24,7 +24,7 @@ Funnels and loops answer different questions. The funnel answers "where do peopl
 
 ![Funnel versus loop: a linear four-stage funnel next to a circular loop where new users produce output that reaches more users](images/w16-funnel-vs-loop.svg)
 
-*Read the labels under each shape. The funnel needs new input at the top every cycle; the loop takes its output and feeds it back in as input.*
+*The funnel needs new input at the top every cycle; the loop takes its output and feeds it back in as input.*
 
 The difference shows up in planning. A funnel plan says "we need 10,000 visitors to get 100 customers." Next quarter you need 12,000 and the cheap ones are gone. A loop plan says "each activated customer produces 0.4 new signups within three weeks, so the questions are how to raise 0.4 and how to shorten three weeks." The second question compounds.
 
@@ -40,11 +40,11 @@ A handful of loop shapes work for software. Knowing which are possible for your 
 
 ![Table of growth loop types with how each compounds, real examples and what each requires](images/w16-loop-types.svg)
 
-*The right-hand column is the filter. If your product does not meet the requirement, that loop is not available to you no matter how well you execute.*
+*The right-hand column is the filter: if your product does not meet the requirement, that loop is not available no matter how well you execute.*
 
 **Viral or invite loops.** A user brings others because the product is better with them in it. Slack, Figma, Notion, and Miro all work this way, and the requirement is multiplayer value. A referral program is different: multiplayer invites happen because the user wants the outcome, while referral programs pay people to do something they were not going to do. Dropbox is the famous case of the second type done well, because both the referrer and the new user got extra storage, so the reward was denominated in the product and attracted people who wanted the product. PayPal's early cash bonuses worked too, but that loop is expensive and stops the day you stop paying.
 
-**User-generated content and SEO loops.** Users create public artifacts, those pages get indexed, strangers find them through search, and some become users who create more. Canva's template gallery, Notion's template ecosystem, and GitHub's public repositories all do this. Zapier is the sharpest B2B example: it built a page for essentially every pair of apps it connects, so a search for connecting two specific tools lands on a Zapier page. That is week 11's programmatic SEO, powered by product data rather than writers. If everything your users create is private by necessity, this loop is closed to you.
+**User-generated content and SEO loops.** Users create public artifacts, those pages get indexed, strangers find them through search, and some become users who create more. Canva's template gallery, Notion's template ecosystem, and GitHub's public repositories all do this. Zapier is the sharpest B2B example: it built a page for essentially every pair of apps it connects, so a search for connecting two specific tools lands on a Zapier page. That is week 11's programmatic SEO, powered by product data rather than writers. If what your users create is private by necessity, this loop is closed to you.
 
 **Paid loops.** Revenue from one cohort funds acquisition of the next. The constraint is the payback period from week 12: if recovering acquisition cost takes fourteen months, you cannot reinvest fast enough to spin the loop.
 
@@ -80,7 +80,7 @@ Product-led growth means the product is the primary way you acquire, convert, an
 
 ![Product-led growth motion: discover, try without talking to anyone, reach first value, habit forms, hit a limit, upgrade or expand](images/w16-plg-motion.svg)
 
-*Each box is a place your product can fail. The line at the bottom is the point: PLG is a product that sells itself up to where a human genuinely adds value.*
+*Each box is a place your product can fail. The line at the bottom is the point: PLG sells itself up to where a human genuinely adds value.*
 
 PLG fits when a user can get real value alone in one session, when what they get is worth showing someone, and when the price point cannot support a salesperson per deal. It fits badly when the product needs integration and a security review before it does anything, when the buyer is never the user, or when contract values are high and volume is low. The free-to-paid model then takes one of three shapes.
 
@@ -98,7 +98,7 @@ Three mechanics turn the PLG motion into revenue.
 
 **Activation** is the point where a new user has experienced enough value to come back. Week 17 covers defining and measuring it; here the point is that activation is where your loop and your revenue both live. Onboarding is the most important marketing surface you own: more prospects see it than will ever see your homepage a second time, and it is the only marketing asset that runs while the user is deciding.
 
-Design it like a landing page from week 6. Cut every step not required to reach value. Pre-fill what you can. Use sample data or a template so an empty state is never the first thing a user sees, as Notion does with templates and Airtable with starter bases. Ask for the invite or the share at the moment it fits the workflow, not in a modal on day one.
+Design it like a landing page from week 6. Cut every step not required to reach value, pre-fill what you can, and use sample data or a template so an empty state is never the first thing a user sees, as Notion does with templates and Airtable with starter bases. Ask for the invite or the share at the moment it fits the workflow, not in a modal on day one.
 
 **Self-serve upgrade** means a user can hit the limit, understand why, and pay without talking to anyone. Three details decide whether it works. The limit must be visible before it is hit, so nobody is surprised into churn (a usage meter, not a hard stop). The upgrade prompt must appear at the moment of blocked intent, in the context of what the user was doing, not in a general pricing email. And checkout must be short: every field is a conversion tax on the highest-intent moment you will get.
 
@@ -106,9 +106,9 @@ Design it like a landing page from week 6. Cut every step not required to reach 
 
 Define that trigger with product data, not form fills: active users inside one company domain cross a threshold, a user hits an enterprise-only feature such as SSO or audit logs, or someone from a week 3 target account signs up. This is a product-qualified lead, and it beats a whitepaper download because it is behavior rather than curiosity.
 
-Datadog, Atlassian, and Slack are the reference cases. All let individuals and teams adopt without approval, then engaged sales as accounts grew, and all ended with enterprise contracts that began as one person's self-serve signup.
+Datadog, Atlassian, and Slack are the reference cases: all let individuals and teams adopt without approval, then engaged sales as accounts grew, and all ended with enterprise contracts that began as one person's self-serve signup.
 
-The failure mode is the hybrid that satisfies nobody: a "start free" button that opens a demo request form. Either the product sells itself or a person does. Make the choice visible and honor it.
+The failure mode is the hybrid that satisfies nobody: a "start free" button that opens a demo request form. Either the product sells itself or a person does.
 
 ### 6. Virality is not network effects
 
@@ -116,24 +116,24 @@ These two get used interchangeably and they are different things. **Virality** i
 
 ![Network diagram showing connections growing faster than the number of nodes](images/w15-network-effects.svg)
 
-*Each added participant creates connections to everyone already present, which is the shape of a network effect: value to each user rises with the number of users.*
+*Each added participant creates connections to everyone already present: value to each user rises with the number of users.*
 
 You can have either without the other. Dropbox's referral loop was viral without strong network effects, since your files are not more useful because a stranger also uses Dropbox. Figma has both: sharing a file brings new users, and a design file is more useful when your whole team is in it.
 
 Two practical implications. First, network effects are usually local, not global. Slack's operates inside a workspace, not across all Slack users worldwide, which means you can build real network effects with a handful of customers rather than dominating a market. Ask whether the tenth person at a customer makes the product better for the first nine. If yes, your strategy should be depth inside accounts, not breadth across them.
 
-Second, they are neither automatic nor permanent. Hagiu and Rothman's HBR piece "Network Effects Aren't Enough" walks through marketplaces that grew and still failed, and the NFX Network Effects Bible catalogues the types and their strength. Most claimed network effects are scale economies, brand, or switching costs wearing a better name. Be honest about which you have, because the three require different defenses.
+Second, they are neither automatic nor permanent. Hagiu and Rothman's HBR piece "Network Effects Aren't Enough" walks through marketplaces that grew and still failed. Most claimed network effects are scale economies, brand, or switching costs wearing a better name. Be honest about which you have, because the three require different defenses.
 
 ## Videos
 
 - [Growth Loops are the New Funnels, Brian Balfour (Reforge)](https://www.youtube.com/results?search_query=brian+balfour+growth+loops+are+the+new+funnels) (YouTube search)
   Why watch: the clearest argument for replacing funnel thinking with loop thinking, with worked examples; 30 to 45 minutes.
 - [Casey Winters on growth loops (Lenny's Podcast)](https://www.youtube.com/watch?v=QMFvz8utx-Q)
-  Why watch: Winters ran growth at Pinterest and Grubhub and is the most practical voice on picking one loop and instrumenting it; an hour.
+  Why watch: Winters ran growth at Pinterest and Grubhub and is the most practical voice on picking one loop and instrumenting it.
 - [Elena Verna on product-led growth (Lenny's Podcast)](https://www.youtube.com/watch?v=UTmFuSZfJ9U)
-  Why watch: the case for the reverse trial, and a candid account of where PLG fails and where sales belongs; an hour.
+  Why watch: the case for the reverse trial, and where PLG fails and sales belongs; an hour.
 - [Product-Led Growth, Wes Bush (talk)](https://www.youtube.com/watch?v=16L-UYXq6Vs)
-  Why watch: a structured walk through free tier versus trial decisions and the onboarding each implies; 30 to 45 minutes.
+  Why watch: a structured walk through free tier versus trial decisions; 30 to 45 minutes.
 
 ## Recommended reading
 
