@@ -116,9 +116,9 @@ Switch stories. Lay every switch story side by side: trigger, alternatives consi
 
 Kano prioritization. Once you have the clusters, you need to decide what to build and what to say. The Kano model sorts attributes into three types: must-haves (their absence causes dissatisfaction, their presence is barely noticed), performance attributes (more is better and customers will pay for it), and delighters (unexpected, cause disproportionate satisfaction). Over time, delighters decay into performance attributes and then must-haves.
 
-![Kano model showing must-have, performance, and delighter attributes, with delighters decaying toward must-haves over time](https://upload.wikimedia.org/wikipedia/commons/6/68/Kano_model_showing_transition_over_time.png)
+![Kano model showing must-have, performance, and delighter attributes, with delighters decaying toward must-haves over time](images/w02-kano-model.svg)
 
-*Note the arrow of time: today's delighter becomes tomorrow's expectation, which is why you should never build your marketing around a must-have. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kano_model_showing_transition_over_time.png)*
+*Note the arrow of time: today's delighter becomes tomorrow's expectation, which is why you should never build your marketing around a must-have.*
 
 For marketing, the Kano distinction is decisive. Never lead your homepage with a must-have; nobody switches for something every competitor has. Lead with the performance attribute your ICP cares about most, and mention the delighter as the thing people will tell their friends about. Must-haves belong on the feature page and in the security section, where they reduce anxiety.
 
@@ -143,7 +143,7 @@ The failure mode of synthesis is confirmation. Two defenses: have someone who di
 - [Know Your Customers' Jobs to Be Done, Christensen, Hall, Dillon, Duncan (HBR)](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done). What to take from it: the definition of a job, the functional, emotional, and social dimensions, and the examples of companies that redesigned around a job.
 - [Finding the Right Job for Your Product, Christensen et al. (MIT Sloan Management Review)](https://sloanreview.mit.edu/article/finding-the-right-job-for-your-product/). What to take from it: the longer version of the milkshake study and the argument that job-based segmentation beats demographic segmentation.
 - [Replacing The User Story With The Job Story, Alan Klement (JTBD.info)](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27). What to take from it: the "when, I want to, so I can" format, which you will use to write the jobs in your insight summary.
-- [Intercom on Jobs-to-be-Done, Intercom (free book)](https://www.intercom.com/resources/books/intercom-on-jobs-to-be-done). What to take from it: how a software company actually applied JTBD to product and marketing, including their switch interview approach.
+- [Intercom on Jobs-to-be-Done, Intercom (free book)](https://www.intercom.com/resources/books/intercom-jobs-to-be-done). What to take from it: how a software company actually applied JTBD to product and marketing, including their switch interview approach.
 - [How Superhuman Built an Engine to Find Product Market Fit, Rahul Vohra (First Round Review)](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit). What to take from it: the survey question, the segmentation of "very disappointed" users, and the discipline of building for the people who already love you.
 - [Marketing Malpractice: The Cause and the Cure, Christensen, Cook, Hall (HBR)](https://hbr.org/2005/12/marketing-malpractice-the-cause-and-the-cure). What to take from it: the case that segmenting by product category or customer demographics leads to products nobody hires, and what to do instead.
 

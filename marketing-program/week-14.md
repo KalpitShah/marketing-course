@@ -100,9 +100,9 @@ Here is the measurement problem that makes founders undervalue social. Someone r
 
 This is dark social: word of mouth that happens in channels analytics cannot see, which is most of them. Private Slack and Discord communities, direct messages, WhatsApp groups, podcasts, conference hallway conversations, and screenshots shared without links. For B2B software, dark social is often the majority of how buyers actually hear about a product.
 
-![Six degrees of separation diagram showing how a small number of hops connect any two people in a network](https://upload.wikimedia.org/wikipedia/commons/4/4a/Six_degrees_of_separation.svg)
+![Six degrees of separation diagram showing how a small number of hops connect any two people in a network](images/w14-dark-social.svg)
 
-*Word of mouth travels along paths you cannot instrument: each hop is a private conversation, and only the last one, if any, leaves a trace in your analytics. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Six_degrees_of_separation.svg)*
+*Word of mouth travels along paths you cannot instrument: each hop is a private conversation, and only the last one, if any, leaves a trace in your analytics.*
 
 You cannot fully measure it, but you can capture a large part of it with a single field on your signup form or in your first sales conversation: "How did you hear about us?" as a free-text box, not a dropdown. This is self-reported attribution. It is imperfect (people forget, and they name the last thing they remember), but it is the only source that will ever tell you "a friend shared your post in our team channel", and that is the answer you need. Read the responses weekly and tag them by hand. Week 18 puts this next to your click-based attribution so you can see how much they disagree.
 
@@ -139,7 +139,7 @@ A note on the company account. Keep one, post product news and repost the founde
 
 - [1,000 True Fans, Kevin Kelly](https://kk.org/thetechnium/1000-true-fans/). What to take from it: you need a small number of people who care a lot, not a large number who care a little, and social is where you find them.
 - [Show HN guidelines, Hacker News](https://news.ycombinator.com/showhn.html). What to take from it: what the community considers a legitimate post, and the tone that works there (show what you built, invite feedback, no marketing language).
-- [Reddit rules](https://www.redditinc.com/policies/reddit-rules). What to take from it: the sitewide rules on self-promotion and manipulation; then read the rules of the three subreddits your ICP uses before you post in any of them.
+- [Reddit rules](https://www.redditinc.com/policies). What to take from it: the sitewide rules on self-promotion and manipulation; then read the rules of the three subreddits your ICP uses before you post in any of them.
 - [Write Simply, Paul Graham](https://paulgraham.com/simply.html). What to take from it: simple writing reaches more people and is harder to write; every social post should pass the "would I say this out loud" test.
 - [Writing Handbook, Julian Shapiro](https://www.julian.com/guide/write/intro). What to take from it: the sections on generating ideas from your own experience and on rewriting for clarity; both apply directly to short posts.
 - [Marketing Examples, Harry Dry](https://marketingexamples.com/). What to take from it: a library of teardowns in the format described in concept 3; study how each one makes a single point with one image.

@@ -117,7 +117,7 @@ The failure mode is running the loop without step one. Founders redesign the her
 
 ## Recommended reading
 
-- [Landing pages, Julian Shapiro (Growth Handbook)](https://www.julian.com/guide/growth/landing-pages). What to take from it: a section-by-section structure for a software landing page and a checklist you can run against your draft.
+- [Landing pages, Julian Shapiro (Growth Handbook)](https://julian.com/guide/growth/landing-pages). What to take from it: a section-by-section structure for a software landing page and a checklist you can run against your draft.
 - [How Users Read on the Web, Nielsen Norman Group](https://www.nngroup.com/articles/how-users-read-on-the-web/). What to take from it: the original scanning research and the writing rules that follow from it (front-loading, one idea per paragraph, meaningful headings).
 - [F-Shaped Pattern of Reading on the Web, Nielsen Norman Group](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/). What to take from it: what the F pattern is, when it appears, and how good formatting breaks it in your favor.
 - [Copywriting 101, Copyblogger](https://copyblogger.com/copywriting-101/). What to take from it: the fundamentals of headline, promise and proof in a form you can read in an hour.

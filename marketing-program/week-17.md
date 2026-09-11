@@ -98,9 +98,9 @@ Zoom's version of onboarding was to make the first meeting need almost no onboar
 
 Where usage within an account can grow, onboarding does not end with the first user. Adoption inside a company tends to follow an S-curve: a slow start with one or two people, a steep middle as teams adopt, then saturation. Your job is to shorten the slow start.
 
-![Logistic S-curve showing slow initial growth, rapid middle, and saturation](https://upload.wikimedia.org/wikipedia/commons/8/88/Logistic-curve.svg)
+![Logistic S-curve showing slow initial growth, rapid middle, and saturation](images/w17-adoption-curve.svg)
 
-*Seat adoption inside a customer account usually follows this shape; the flat beginning is where most expansion revenue is lost. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Logistic-curve.svg)*
+*Seat adoption inside a customer account usually follows this shape; the flat beginning is where most expansion revenue is lost.*
 
 The failure mode: a product tour. Tooltip sequences that explain the interface are the onboarding equivalent of reading the manual aloud. Show the outcome, not the buttons.
 
@@ -131,10 +131,10 @@ The failure mode: chasing NRR through aggressive upsell before logo retention is
 
 ## Recommended reading
 
-- [What is good retention, Lenny Rachitsky (Lenny's Newsletter)](https://www.lennysnewsletter.com/p/what-is-good-retention). What to take from it: benchmarks by category and the reminder that a flattening curve is the goal.
+- [What is good retention, Lenny Rachitsky (Lenny's Newsletter)](https://www.lennysnewsletter.com/p/what-is-good-retention-issue-29). What to take from it: benchmarks by category and the reminder that a flattening curve is the goal.
 - [Why Churn is SO critical to success in SaaS, David Skok (For Entrepreneurs)](https://www.forentrepreneurs.com/why-churn-is-critical-in-saas/). What to take from it: the compounding math of churn and why negative churn (NRR above 100 percent) changes everything.
 - [The Value of Keeping the Right Customers, Amy Gallo (HBR)](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers). What to take from it: retention economics, and the distinction between keeping customers and keeping the right ones.
-- [User onboarding chapter, Julian Shapiro (Growth Handbook)](https://www.julian.com/guide/growth/user-onboarding). What to take from it: a practical checklist for cutting steps and getting users to value faster.
+- [Retaining users by building state, Julian Shapiro (Startup Handbook)](https://www.julian.com/guide/startup/retention). What to take from it: why retention comes from the state a user builds up in your product, plus a practical view of cutting steps to value.
 - [Case studies, Growth.Design](https://growth.design/case-studies). What to take from it: screen-by-screen teardowns of real onboarding flows; pick two in a category near yours and note every friction point they flag.
 - [Stop Trying to Delight Your Customers, Dixon, Freeman and Toman (HBR)](https://hbr.org/2010/07/stop-trying-to-delight-your-customers). What to take from it: low effort beats delight for loyalty; apply it to your support and docs.
 - [Cohort analysis (Wikipedia)](https://en.wikipedia.org/wiki/Cohort_analysis). What to take from it: the mechanics of building the table, if you have not done it before.

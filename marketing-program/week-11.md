@@ -145,7 +145,7 @@ Failure mode: treating a drop in informational traffic as proof that SEO is dead
 - [How Search Works, Google](https://www.google.com/search/howsearchworks/). What to take from it: the plain-language version of crawl, index, rank, and the signals Google says it uses.
 - [Beginner's Guide to SEO, Moz](https://moz.com/beginners-guide-to-seo). What to take from it: the classic structured introduction; read the chapters on keyword research and on-page if you skip the rest.
 - [Search Intent, Ahrefs](https://ahrefs.com/blog/search-intent/). What to take from it: how to read intent from the results page and match it with a page type; the core skill of this week.
-- [How to Do Keyword Research, Ahrefs](https://ahrefs.com/blog/keyword-research/). What to take from it: the process and the business potential score; follow it step by step in the exercise.
+- [How to Do Keyword Research, Ahrefs](https://ahrefs.com/seo/keyword-research). What to take from it: the process and the business potential score; follow it step by step in the exercise.
 - [Programmatic SEO, Ahrefs](https://ahrefs.com/blog/programmatic-seo/). What to take from it: when generated pages work and the quality bar each page must clear.
 - [Google's 200 Ranking Factors, Backlinko](https://backlinko.com/google-ranking-factors). What to take from it: a catalog of signals, read with skepticism; most are inferred, and the top handful (content quality, links, intent match, technical health) carry nearly all the weight.
 - [Ahrefs Academy](https://ahrefs.com/academy). What to take from it: free structured courses if you want to go deeper than this week; the SEO fundamentals course is the one to do.

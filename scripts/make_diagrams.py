@@ -738,3 +738,165 @@ for name, svg in D.items():
     with open(os.path.join(OUT, name), "w") as f:
         f.write(svg)
 print(f"wrote {len(D)} diagrams to {os.path.abspath(OUT)}")
+
+# ---------------- Replacements for external images (drawn here so links cannot rot) ----------------
+
+# Week 2: Kano model
+c = Canvas(900, 600, "Kano model: three kinds of attribute, and how they decay")
+ox, oy = 120, 330
+c.arrow(ox - 60, oy, 840, oy, color=INK)
+c.arrow(ox, oy + 200, ox, 70, color=INK)
+c.text(700, oy + 30, "How well it is implemented", size=13, color=MUTED)
+c.add(f'<g transform="translate({ox - 32},200) rotate(-90)">')
+c.text(0, 0, "Customer satisfaction", size=13, color=MUTED)
+c.add("</g>")
+def kcurve(fn, color, label, lx, ly):
+    pts = [f"{ox + i * 7},{oy - fn(i / 100) * 200}" for i in range(0, 101)]
+    c.add(f'<polyline points="{" ".join(pts)}" fill="none" stroke="{color}" stroke-width="3"/>')
+    c.text(lx, ly, label, size=13, weight="700", color=color, anchor="start")
+kcurve(lambda x: 1 - 1.05 * _m.exp(-3.2 * x), GREEN, "Delighters (unexpected)", 470, 120)
+kcurve(lambda x: 2 * x - 1, ACCENT, "Performance (more is better)", 560, 250)
+kcurve(lambda x: 1.05 * _m.exp(-3.2 * (1 - x)) - 1, ROSE, "Must-haves (absence angers)", 500, 470)
+c.arrow(300, 150, 300, 415, color=MUTED, dashed=True, width=2)
+c.box(315, 500, 470, 56, "Over time, today's delighter becomes tomorrow's must-have",
+      fill=PAPER, stroke=LINE, size=13, weight="normal", radius=8, max_chars=48)
+c.text(450, 580, "Market on performance and delighters. Must-haves buy you nothing when present and lose the deal when missing.", size=12, color=MUTED, italic=True)
+D["w02-kano-model.svg"] = c.render()
+
+# Week 5: prospect theory value function
+c = Canvas(880, 560, "Losses loom larger than gains (prospect theory)")
+cx, cy = 440, 300
+c.arrow(120, cy, 800, cy, color=INK)
+c.arrow(cx, 520, cx, 80, color=INK)
+c.text(750, cy + 26, "Gains", size=13, color=MUTED)
+c.text(150, cy - 26, "Losses", size=13, color=MUTED)
+c.text(cx + 8, 95, "Perceived value", size=12, color=MUTED, anchor="start")
+pts = []
+for i in range(-100, 101):
+    x = i / 100
+    v = (abs(x) ** 0.65) * (1 if x >= 0 else -2.25)
+    pts.append(f"{cx + x * 330},{cy - v * 90}")
+c.add(f'<polyline points="{" ".join(pts)}" fill="none" stroke="{ACCENT}" stroke-width="3.5"/>')
+c.line(cx + 165, cy, cx + 165, cy - 57, color=GREEN, width=2, dashed=True)
+c.line(cx - 165, cy, cx - 165, cy + 129, color=ROSE, width=2, dashed=True)
+c.text(cx + 230, cy - 60, "A gain of X feels like this", size=12, color=GREEN, anchor="start")
+c.text(cx - 320, cy + 150, "A loss of the same X feels like this", size=12, color=ROSE, anchor="start")
+c.text(cx + 12, cy + 20, "Reference point (their status quo)", size=12, color=MUTED, anchor="start")
+c.caption("Roughly twice the weight on the loss side. Naming what a buyer is losing today usually beats describing what they could gain.")
+D["w05-loss-aversion.svg"] = c.render()
+
+# Week 8: dramatic structure
+c = Canvas(940, 480, "Dramatic structure, applied to a customer story")
+base, peak = 390, 140
+pts = [(80, base), (250, 320), (420, 210), (560, peak), (700, 260), (870, 330)]
+labels = ["Exposition", "Rising action", "Complication", "Climax", "Falling action", "Resolution"]
+subs = ["the world before", "attempts that fail", "the cost of not solving it", "the decision to switch",
+        "rollout and adoption", "the new normal, with numbers"]
+for i in range(len(pts) - 1):
+    c.line(pts[i][0], pts[i][1], pts[i + 1][0], pts[i + 1][1], color=ACCENT, width=3.5)
+for i, (x, y) in enumerate(pts):
+    c.circle(x, y, 9, fill=ACCENT_SOFT, stroke=ACCENT, sw=2.5)
+    up = i in (2, 3)
+    c.text(x, y - 26 if up else y + 30, labels[i], size=13, weight="700")
+    c.text(x, y - 58 if up else y + 62, subs[i], size=11, color=MUTED, max_chars=22)
+c.caption("Founders cut the rising action because it is unflattering. That is the part that makes the resolution believable.")
+D["w08-story-structure.svg"] = c.render()
+
+# Week 13: triggered email as a feedback loop
+c = Canvas(960, 420, "A triggered email is a feedback loop")
+c.box(60, 170, 180, 80, "Target behavior", "the activation event", fill=PANEL, stroke=LINE)
+c.box(300, 170, 180, 80, "Compare", "did it happen in time?", fill=WARM_SOFT, stroke=WARM)
+c.box(540, 170, 180, 80, "Send email", "the corrective nudge", fill=ACCENT_SOFT, stroke=ACCENT)
+c.box(780, 170, 140, 80, "User acts", "or does not", fill=GREEN_SOFT, stroke=GREEN)
+c.arrow(242, 210, 298, 210)
+c.arrow(482, 210, 538, 210)
+c.arrow(722, 210, 778, 210)
+c.add(f'<path d="M850,252 L850,340 L390,340 L390,254" fill="none" stroke="{GREEN}" stroke-width="2.5" stroke-dasharray="6 5" marker-end="url(#arrow)"/>')
+c.text(620, 358, "product usage feeds back into the comparison", size=12, color=MUTED)
+c.caption("Scheduled blasts have no feedback path. Triggered emails do, which is why they convert better and annoy people less.")
+D["w13-triggered-loop.svg"] = c.render()
+
+# Week 14: word of mouth hops
+c = Canvas(900, 420, "Word of mouth travels where your analytics cannot see")
+xs = [110, 290, 470, 650, 830]
+names = ["You post", "A reader", "Their team Slack", "A colleague", "Signup"]
+for i, x in enumerate(xs):
+    last = i == len(xs) - 1
+    c.circle(x, 220, 46, fill=ACCENT_SOFT if last else PANEL, stroke=ACCENT if last else LINE, sw=2)
+    c.text(x, 220, names[i], size=12, weight="600", max_chars=11)
+    if i < len(xs) - 1:
+        c.arrow(x + 52, 220, xs[i + 1] - 52, 220, width=2.5)
+for x in xs[1:4]:
+    c.text(x, 300, "no referrer", size=11, color=ROSE)
+c.text(xs[-1], 300, "direct / none", size=11, color=ROSE)
+c.text(450, 355, "Ask new signups where they heard about you. It is the only instrument that reaches the middle hops.", size=13, color=INK)
+D["w14-dark-social.svg"] = c.render()
+
+# Week 15: network effects
+c = Canvas(900, 480, "Why joining a large ecosystem beats building a small one")
+for idx, (n, label, cx0) in enumerate([(4, "4 participants: 6 connections", 200), (8, "8 participants: 28 connections", 660)]):
+    cy0, r = 240, 110
+    pts = []
+    for i in range(n):
+        a = -_m.pi / 2 + i * 2 * _m.pi / n
+        pts.append((cx0 + r * _m.cos(a), cy0 + r * _m.sin(a)))
+    for i in range(n):
+        for j in range(i + 1, n):
+            c.line(pts[i][0], pts[i][1], pts[j][0], pts[j][1], color=ACCENT, width=1.2)
+    for (px, py) in pts:
+        c.circle(px, py, 13, fill=ACCENT_SOFT, stroke=ACCENT, sw=2)
+    c.text(cx0, 400, label, size=14, weight="600")
+c.text(450, 222, "Double the participants,", size=12, color=MUTED)
+c.text(450, 240, "roughly four times", size=12, color=MUTED)
+c.text(450, 258, "the connections", size=12, color=MUTED)
+c.caption("The value of an integration or marketplace listing scales with the connections it creates, not with the number of members.")
+D["w15-network-effects.svg"] = c.render()
+
+# Week 17: adoption S-curve inside an account
+c = Canvas(900, 480, "Seat adoption inside an account follows an S-curve")
+ox, oy = 100, 380
+c.arrow(ox, oy, 840, oy, color=INK)
+c.arrow(ox, oy, ox, 80, color=INK)
+c.text(470, 425, "Weeks since the account started", size=13, color=MUTED)
+c.add(f'<g transform="translate({ox - 34},240) rotate(-90)">')
+c.text(0, 0, "Active seats", size=13, color=MUTED)
+c.add("</g>")
+pts = [f"{ox + i * 7.2},{oy - 260 / (1 + _m.exp(-0.11 * (i - 50)))}" for i in range(0, 101)]
+c.add(f'<polyline points="{" ".join(pts)}" fill="none" stroke={chr(34)}{ACCENT}{chr(34)} stroke-width="3.5"/>')
+c.line(ox + 210, oy, ox + 210, 120, color=LINE, dashed=True)
+c.line(ox + 500, oy, ox + 500, 120, color=LINE, dashed=True)
+c.text(ox + 100, 150, "Flat start", size=13, weight="700", color=ROSE)
+c.text(ox + 100, 172, "most expansion", size=11, color=MUTED)
+c.text(ox + 100, 188, "revenue dies here", size=11, color=MUTED)
+c.text(ox + 355, 150, "Takeoff", size=13, weight="700", color=GREEN)
+c.text(ox + 355, 172, "a champion pulls", size=11, color=MUTED)
+c.text(ox + 355, 188, "colleagues in", size=11, color=MUTED)
+c.text(ox + 620, 150, "Saturation", size=13, weight="700", color=WARM)
+c.text(ox + 620, 172, "sell a new use case", size=11, color=MUTED)
+c.caption("Your job in the flat part is to get the second and third user into the account. Nothing else matters as much.")
+D["w17-adoption-curve.svg"] = c.render()
+
+# Week 19: anatomy of an A/B test
+c = Canvas(960, 480, "Anatomy of an A/B test")
+c.box(390, 70, 180, 60, "Incoming traffic", fill=PANEL, stroke=LINE)
+c.box(180, 190, 230, 90, "Variant A (control)", "the current page", fill=ACCENT_SOFT, stroke=ACCENT, size=15)
+c.box(550, 190, 230, 90, "Variant B", "one change, one hypothesis", fill=GREEN_SOFT, stroke=GREEN, size=15)
+c.arrow(450, 132, 320, 186, label="50%")
+c.arrow(510, 132, 640, 186, label="50%")
+c.box(180, 320, 230, 56, "Conversion rate A", fill=PAPER, stroke=ACCENT, size=14)
+c.box(550, 320, 230, 56, "Conversion rate B", fill=PAPER, stroke=GREEN, size=14)
+c.arrow(295, 282, 295, 316)
+c.arrow(665, 282, 665, 316)
+c.box(330, 400, 300, 46, "Difference, with its uncertainty", fill=WARM_SOFT, stroke=WARM, size=14)
+c.arrow(340, 378, 440, 398)
+c.arrow(620, 378, 520, 398)
+c.text(80, 228, "Random assignment,", size=12, color=MUTED)
+c.text(80, 246, "fixed duration,", size=12, color=MUTED)
+c.text(80, 264, "one primary metric", size=12, color=MUTED)
+D["w19-ab-test-anatomy.svg"] = c.render()
+
+for name in ["w02-kano-model.svg", "w05-loss-aversion.svg", "w08-story-structure.svg", "w13-triggered-loop.svg",
+             "w14-dark-social.svg", "w15-network-effects.svg", "w17-adoption-curve.svg", "w19-ab-test-anatomy.svg"]:
+    with open(os.path.join(OUT, name), "w") as f:
+        f.write(D[name])
+print("wrote replacement diagrams")

@@ -98,9 +98,9 @@ The failure mode is writing every asset at the same stage, usually product-aware
 
 Two messages with identical facts can produce different decisions depending on how they are framed. The most reliable effect here is loss aversion, documented by Daniel Kahneman and Amos Tversky in prospect theory: people feel a loss roughly twice as strongly as an equivalent gain. The value function in the figure is steeper on the loss side than on the gain side.
 
-![Prospect theory value function showing a steeper curve for losses than for gains, with the reference point at the origin](https://upload.wikimedia.org/wikipedia/commons/4/4e/Valuefun.jpg)
+![Prospect theory value function showing a steeper curve for losses than for gains, with the reference point at the origin](images/w05-loss-aversion.svg)
 
-*The curve is asymmetric: losing an amount hurts more than gaining the same amount feels good. Messaging that names what a buyer is currently losing often lands harder than messaging about what they could gain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Valuefun.jpg)*
+*The curve is asymmetric: losing an amount hurts more than gaining the same amount feels good. Messaging that names what a buyer is currently losing often lands harder than messaging about what they could gain.*
 
 For messaging, this means "you are losing 3 days a month to manual reporting" is often more motivating than "save 3 days a month". The facts are identical; the frame is different. The reference point matters too. If the buyer's reference point is the status quo (which it usually is), then switching is a loss of familiarity and effort even before they weigh the gain. That is why the effort and risk row in your objection map is so important: you are working against a built-in bias.
 
@@ -124,7 +124,7 @@ Two other framing tools worth knowing: contrast (the old way next to yours, "wee
 - [The B2B Elements of Value, Almquist, Cleghorn and Sherer (HBR, 2018)](https://hbr.org/2018/03/the-b2b-elements-of-value). What to take from it: a pyramid of 40 things business buyers value, from table stakes up to inspirational; use it to check whether your pillars sit above table stakes.
 - [The New Science of Customer Emotions, Magids, Zorfas and Leemon (HBR, 2015)](https://hbr.org/2015/11/the-new-science-of-customer-emotions). What to take from it: the emotional motivators behind purchases, and why an outcome message should connect to one of them even in B2B.
 - [Value proposition examples and how to create one (CXL)](https://cxl.com/blog/value-proposition-examples-how-to-create/). What to take from it: a practical structure for a value proposition and a set of software examples critiqued line by line.
-- [Copywriting guide, Harry Dry (Marketing Examples)](https://marketingexamples.com/copywriting/guide). What to take from it: the rules on specificity, customer language and cutting adjectives; read it before you write your one-liner.
+- [Copywriting guide, Harry Dry (Marketing Examples)](https://marketingexamples.com/copywriting). What to take from it: the rules on specificity, customer language and cutting adjectives; read it before you write your one-liner.
 - [Copywriting formulas, Joanna Wiebe (Copyhackers)](https://copyhackers.com/2015/10/copywriting-formula/). What to take from it: dozens of formulas for headlines and value propositions; use them as scaffolding for first drafts, not as final copy.
 - [Wynter, message testing with B2B audiences](https://wynter.com/). What to take from it: how a paid message-testing panel works and what a test report looks like, so you can run a cheap version yourself in the exercise.
 - [Writing Handbook, Julian Shapiro](https://www.julian.com/guide/write/intro). What to take from it: a technical founder's approach to writing clearly, including how to compress and how to test whether a sentence carries information.

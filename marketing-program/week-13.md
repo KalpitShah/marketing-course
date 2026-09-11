@@ -50,9 +50,9 @@ Scheduled sequences are fine for a newsletter. For onboarding they are a blunt i
 
 Triggered emails treat the product as a sensor. The user takes an action, the product emits an event, a rule evaluates the event against what should have happened, and an email closes the gap. Duolingo's streak reminders are the canonical consumer example: the message fires based on the user's own behavior (you have not practiced today and your streak is about to break), which is why it is effective and why it can also feel manipulative if overdone. Nir Eyal's Hooked model, in the readings, describes this loop as trigger, action, variable reward, investment. Use it with care; the ethics of triggered messaging get their own discussion in week 17.
 
-![Ideal feedback model diagram with input, system, output and a feedback path](https://upload.wikimedia.org/wikipedia/commons/e/ed/Ideal_feedback_model.svg)
+![Ideal feedback model diagram with input, system, output and a feedback path](images/w13-triggered-loop.svg)
 
-*A triggered email system is a feedback loop: product usage is the output, the trigger rule compares it against the target behavior, and the email is the corrective input. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ideal_feedback_model.svg)*
+*A triggered email system is a feedback loop: product usage is the output, the trigger rule compares it against the target behavior, and the email is the corrective input.*
 
 Implementation is straightforward. Define five to eight product events that matter (signed up, completed setup, hit first value, invited teammate, approached limit, went quiet for N days), send them to your email tool via its API, and write one email per missed milestone. Most marketing automation tools support "if event X has not happened within N days of event Y, send Z" without code.
 
@@ -146,12 +146,12 @@ The failure mode is optimizing subject lines for opens (an unreliable metric) wh
   Why watch: the middle section on reducing friction and setting expectations at signup applies directly to what your welcome email should say; about 50 minutes.
 - [Elena Verna on retention (Reforge and talks)](https://www.youtube.com/results?search_query=elena+verna+retention+talk) (YouTube search)
   Why watch: Verna connects lifecycle messaging to retention curves, which is the frame you need before you write a single activation nudge; about 40 minutes.
-- [HubSpot Academy, Email Marketing course](https://academy.hubspot.com/courses/email-marketing)
+- [HubSpot Academy, Email Marketing course](https://academy.hubspot.com/courses/email-marketing-certification-en)
   Why watch: a free, structured video course covering segmentation, deliverability basics, and testing; skip the parts that assume you are using HubSpot and watch the lessons on list health and sending frequency; roughly 3 hours in total, do the first half.
 
 ## Recommended reading
 
-- [User onboarding chapter, Julian Shapiro (Growth Handbook)](https://www.julian.com/guide/growth/user-onboarding). What to take from it: onboarding is a product problem that email supports, and the sequence should push toward a specific activation event rather than "engagement".
+- [Retaining users by building state, Julian Shapiro (Startup Handbook)](https://www.julian.com/guide/startup/retention). What to take from it: onboarding and retention are product problems that email supports, and the sequence should push toward a specific activation event rather than "engagement".
 - [Email sender guidelines, Google](https://support.google.com/a/answer/81126). What to take from it: the exact authentication, unsubscribe, and complaint-rate requirements for bulk senders; run your domain through the checklist this week.
 - [CAN-SPAM Act compliance guide, FTC](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business). What to take from it: the seven requirements, and the fact that each non-compliant email is a separate violation.
 - [GDPR overview](https://gdpr.eu/). What to take from it: what consent means, why purchased lists are off the table for EU contacts, and the difference between consent and legitimate interest.

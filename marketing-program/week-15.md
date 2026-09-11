@@ -112,9 +112,9 @@ The largest partnership opportunity for many software platforms is to become par
 
 If you are small, the play is to be a third party on a platform your ICP already uses. Building a Shopify app puts you in front of merchants searching for your category. Listing on a cloud marketplace lets enterprise buyers purchase against their existing cloud commitment, which removes procurement friction. Salesforce's Trailblazer community is a case study in how a platform can turn its users into a certified, self-identifying group that recommends ecosystem products to each other.
 
-![Metcalfe network effect diagram showing how connections grow faster than the number of nodes](https://upload.wikimedia.org/wikipedia/commons/1/1d/Metcalfe-Network-Effect.svg)
+![Metcalfe network effect diagram showing how connections grow faster than the number of nodes](images/w15-network-effects.svg)
 
-*Each new participant in an ecosystem adds connections to everyone already there, which is why marketplaces get more valuable as they grow and why joining a large one early is worth more than building a small one. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Metcalfe-Network-Effect.svg)*
+*Each new participant in an ecosystem adds connections to everyone already there, which is why marketplaces get more valuable as they grow and why joining a large one early is worth more than building a small one.*
 
 The HBR article on two-sided markets and the NFX network effects manual (in the readings) cover the economics. The practical points for a founder: marketplaces have a chicken-and-egg problem that the platform owner solves by subsidizing one side, so as a third party you benefit from that subsidy; category listings are search results, so your listing page needs the copywriting discipline of week 6; and reviews on the marketplace are social proof that compounds, so ask every happy customer to leave one.
 

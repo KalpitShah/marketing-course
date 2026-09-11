@@ -151,7 +151,7 @@ Failure mode: optimizing for the metric you can see. Chasing traffic leads to br
 
 ## Recommended reading
 
-- [Content marketing chapter, Growth Handbook, Julian Shapiro (julian.com)](https://www.julian.com/guide/growth/content-marketing). What to take from it: a practical model for choosing topics, structuring pieces, and distributing them; read it before writing your briefs.
+- [Customer acquisition channels, Startup Handbook, Julian Shapiro (julian.com)](https://www.julian.com/guide/startup/growth-channels). What to take from it: where content sits among the channels, and a practical model for choosing topics, structuring pieces, and distributing them; read it before writing your briefs.
 - [Creating helpful, reliable, people-first content, Google Search Central](https://developers.google.com/search/docs/fundamentals/creating-helpful-content). What to take from it: the questions Google says it uses to judge content quality; use them as a checklist in expert review.
 - [1,000 True Fans, Kevin Kelly (The Technium)](https://kk.org/thetechnium/1000-true-fans/). What to take from it: a small audience that reads everything beats a large audience that reads once; it reframes what a publication is for.
 - [The Skyscraper Technique, Brian Dean (Backlinko)](https://backlinko.com/skyscraper-technique). What to take from it: the useful idea is to study the best existing answers and be clearly better; the caveat is that "longer and more of the same" is not better, and outreach for links has decayed as everyone copied the method.

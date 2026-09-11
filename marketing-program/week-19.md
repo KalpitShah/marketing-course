@@ -54,9 +54,9 @@ The failure mode: a backlog of 80 ideas with scores and no tests run. Cap the ba
 
 An A/B test randomly assigns each visitor or user to a control (A) or a variant (B), exposes each group to a different experience, and compares a metric. Randomization is the point: it makes the two groups identical in expectation, so any difference in outcome is caused by the change, not by who happened to show up.
 
-![Illustration of an A/B test with two page versions shown to randomly split traffic and their conversion rates compared](https://upload.wikimedia.org/wikipedia/commons/2/2e/A-B_testing_example.png)
+![Illustration of an A/B test with two page versions shown to randomly split traffic and their conversion rates compared](images/w19-ab-test-anatomy.svg)
 
-*The structure is simple; the discipline is in everything around it: sample size, duration, one metric, and not stopping early. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A-B_testing_example.png)*
+*The structure is simple; the discipline is in everything around it: sample size, duration, one metric, and not stopping early.*
 
 The numbers you need before you start are four. The baseline conversion rate of your metric. The minimum detectable effect (MDE): the smallest lift you would actually act on, expressed relatively (a 10 percent relative lift on a 3 percent baseline takes you to 3.3 percent). The significance level, conventionally 5 percent, which is the chance you will declare a winner when there is no real difference. And the statistical power, conventionally 80 percent, which is the chance you will detect the effect if it really is there. Plug those into Evan Miller's sample size calculator and it tells you how many visitors per variant you need.
 

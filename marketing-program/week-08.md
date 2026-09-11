@@ -58,9 +58,9 @@ Nancy Duarte, analyzing famous speeches, found a repeated shape she calls the sp
 
 The older, more general version of this is the dramatic arc that Gustav Freytag described in the 19th century: exposition, rising action, climax, falling action, and resolution.
 
-![Freytag's pyramid showing exposition rising through rising action to a climax, then falling action down to resolution](https://upload.wikimedia.org/wikipedia/commons/a/af/Freytags_pyramid.svg)
+![Freytag's pyramid showing exposition rising through rising action to a climax, then falling action down to resolution](images/w08-story-structure.svg)
 
-*Every case study and founder story has this shape whether you intend it or not. The rising action, where things get harder before they get better, is the part founders cut and the part readers need. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Freytags_pyramid.svg)*
+*Every case study and founder story has this shape whether you intend it or not. The rising action, where things get harder before they get better, is the part founders cut and the part readers need.*
 
 Translated for a customer story, the arc has six beats.
 

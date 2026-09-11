@@ -122,7 +122,7 @@ Tool churn has a cost beyond subscriptions: every migration loses data and break
 - [PostHog handbook](https://posthog.com/handbook). What to take from it: the marketing and brand sections as a template for your own playbooks, and the general principle of writing things down.
 - [How to build a growth team, Andrew Chen](https://andrewchen.com/how-to-build-a-growth-team/). What to take from it: what a growth function is for, and why most early companies should not build one yet.
 - [Growth Hacker is the new VP Marketing, Andrew Chen](https://andrewchen.com/how-to-be-a-growth-hacker-an-airbnbcraigslist-case-study/). What to take from it: the argument that early marketers need to be technical enough to build, which shapes what you look for in a first hire.
-- [Growth Handbook, Julian Shapiro](https://www.julian.com/guide/growth/intro). What to take from it: a complete, opinionated view of a lean growth process you can hand to a first hire as shared vocabulary.
+- [Startup Handbook, Julian Shapiro](https://www.julian.com/guide/startup/intro). What to take from it: a complete, opinionated view of a lean growth process you can hand to a first hire as shared vocabulary.
 - [Creating helpful, reliable, people-first content (Google Search Central)](https://developers.google.com/search/docs/fundamentals/creating-helpful-content). What to take from it: the guardrail for any generated content; read the self-assessment questions and apply them to every draft.
 
 ## Hands-on exercise (2 to 4 hours)
