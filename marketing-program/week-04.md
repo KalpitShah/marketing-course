@@ -6,7 +6,7 @@
 
 ## What this week covers and why it matters for a founder
 
-You picked a beachhead in week 3. Positioning is the decision that follows: given that those people are your first market, what do you want them to conclude about you in the first ten seconds?
+You picked a beachhead in week 3. Positioning is the decision that follows it: given that those people are your first market, what should they conclude about you in the first ten seconds?
 
 Positioning is context. It is the frame a buyer uses to decide what your product is comparable to, what it should cost, and whether it deserves attention. Buyers do this automatically and fast. If you do not choose the frame, they choose one for you, usually the most familiar category available, and judge you by its rules. A workflow platform filed under "project management" gets compared to tools costing a tenth of your price on features you never intended to have.
 
@@ -24,7 +24,7 @@ The output is a one-page positioning document, tested on real customers, that we
 
 Al Ries and Jack Trout, writing in the early 1970s, made the point that positioning happens in the customer's head, not in your marketing copy. People cope with too many choices by sorting products into mental categories and remembering only the top one or two in each. You cannot install a new idea in an occupied slot; you can only attach yourself to an existing one or open a new one.
 
-That still holds, and for software it holds harder, because most buyers evaluate in a browser tab next to four other tabs. The mechanism is comparison. A buyer cannot judge your product in isolation. They judge it against whatever they believe it is an instance of, so changing that belief changes every downstream judgment, including price.
+That still holds, and for software it holds harder, because most buyers evaluate in a browser tab next to four other tabs. A buyer cannot judge your product in isolation. They judge it against whatever they believe it is an instance of, so changing that belief changes every downstream judgment, including price.
 
 The clearest software example is Slack. Positioned as a team chat tool, it would have been compared to IRC, HipChat and Campfire and judged on message features and price. Stewart Butterfield's well-known internal memo argued for selling something larger than the tool itself, and Slack's public positioning ran against email and organizational noise rather than against chat apps, with "be less busy" as the promise. The comparison set changed from chat tools to the daily experience of work, and the value went up accordingly.
 
@@ -48,9 +48,9 @@ A generic tool that partly fits is the quiet competitor: a spreadsheet suite, a 
 
 Direct competitors are the ones you think about most and lose to least early on. They matter, but only on the criteria the buyer actually uses to choose.
 
-The mechanism that makes this list valuable is subtraction. Your unique attributes are whatever remains after you remove everything the alternatives also have. Founders who start from a feature list claim things three competitors also claim, which is why so many software homepages are interchangeable.
+The mechanism that makes this list valuable is subtraction. Your unique attributes are whatever remains after you remove everything the alternatives also have. Founders who start from a feature list claim what three competitors also claim, which is why so many software homepages are interchangeable.
 
-Get this list from evidence. Your week 2 interviews contain switch stories and your sales notes contain lost-deal reasons. Ask your last ten customers one question: "if we had not existed, what would you have done?" The answers are frequently not what the founder expected.
+Get this list from evidence. Your week 2 interviews contain switch stories and your sales notes contain lost-deal reasons. Ask your last ten customers one question: "if we had not existed, what would you have done?" The answers are usually not what the founder expected.
 
 ### 3. The positioning components, in order
 
@@ -82,15 +82,15 @@ Once you know your value and your best-fit customers, you have three category st
 
 *Most early-stage companies should be in the middle row; the bottom row is the one founders want and the one that most often fails.*
 
-Head-to-head means entering an established category and claiming you are the better version. "We are a better X." It works when there is an existing budget line, a known buyer, and evaluation criteria on which you genuinely win. The advantage is that you spend nothing teaching the market why the category should exist. The risk is that you fight the leader on ground they chose, and if your advantage sits on criteria buyers rank fourth, you lose.
+Head-to-head means entering an established category and claiming you are the better version. "We are a better X." It works when there is an existing budget line, a known buyer, and evaluation criteria on which you genuinely win, and you spend nothing teaching the market why the category should exist. The risk is that you fight the leader on ground they chose, and if your advantage sits on criteria buyers rank fourth, you lose.
 
-Big fish, small pond means taking an existing category and narrowing it to a segment the generic leaders serve badly. "X built for [segment]." This is the right answer for most early companies because it inherits existing budget and demand while removing the leader's scale advantage, and the leader cannot follow you into the niche without hurting their broader product. Linear is a useful study: issue tracking is an old category with a dominant incumbent in Jira, and Linear did not invent a new one. It narrowed the frame to fast-moving software teams and made speed and craft the evaluation criteria. Buyers already knew they needed issue tracking, so the only question was which one.
+Big fish, small pond means taking an existing category and narrowing it to a segment the generic leaders serve badly. "X built for [segment]." This is the right answer for most early companies: it inherits existing budget and demand while removing the leader's scale advantage, and the leader cannot follow you into the niche without hurting their broader product. Linear is a useful study. Issue tracking is an old category with a dominant incumbent in Jira, and Linear did not invent a new one. It narrowed the frame to fast-moving software teams and made speed and craft the evaluation criteria, so the only question left was which issue tracker.
 
-Create a new game means naming a category that does not exist yet. "A new way to do Y." Drift did this with "conversational marketing", Gong with "revenue intelligence", HubSpot with "inbound marketing", and Snowflake with the "data cloud". It is the most valuable outcome when it works, because the company that names a category tends to define its evaluation criteria. It is also expensive, slow and usually wrong for a small budget, because you are paying to teach the market that a problem has a name before you can sell the solution. HubSpot's category creation ran on a book, a conference, a large blog and free tools over years.
+Create a new game means naming a category that does not exist yet. "A new way to do Y." Drift did this with "conversational marketing", Gong with "revenue intelligence", HubSpot with "inbound marketing", and Snowflake with the "data cloud". It is the most valuable outcome when it works, because the company that names a category tends to define its evaluation criteria. It is also expensive and slow, because you are paying to teach the market that a problem has a name before you can sell the solution. HubSpot's category creation ran on a book, a conference, a large blog and free tools over years.
 
 A middle path: position head-to-head or big fish small pond now, and seed the category language you eventually want in your content. Gong sold sales-call recording into an existing need long before "revenue intelligence" was a phrase anyone searched for.
 
-The failure mode is new-category positioning adopted for internal reasons. It makes the founder feel differentiated and the buyer confused. A quick test: search the term you want to own. If nobody searches for it and no analyst has a report on it, you have chosen education, not positioning, and should budget accordingly.
+The failure mode is new-category positioning adopted for internal reasons: it makes the founder feel differentiated and the buyer confused. A quick test: search the term you want to own. If nobody searches for it and no analyst has a report on it, you have chosen education, not positioning.
 
 ### 5. Positioning is a strategy artifact, so check it against strategy
 
@@ -112,11 +112,11 @@ The failure mode is positioning on something true today and copyable tomorrow. S
 
 Positioning tested only inside the building is a hypothesis. There are three cheap tests; run at least two this week.
 
-The sales-call test. Use the new positioning at the top of your next five calls, then measure two things: how many follow-up questions the prospect asks about what you are (fewer is better), and whether they repeat your frame back in their own words. When someone says "so this is basically X for Y teams" and that is what you intended, it is working.
+The sales-call test. Use the new positioning at the top of your next five calls and measure two things: how many follow-up questions the prospect asks about what you are (fewer is better), and whether they repeat your frame back in their own words. When someone says "so this is basically X for Y teams" and that is what you intended, it is working.
 
 The repeat-back test. Show your positioning statement to five people in your ICP for a minute, take it away, and ask them to describe the product to a colleague. What they say is your actual positioning, whatever you wrote.
 
-The competitive-alternative test. Ask prospects what else they are considering. If the answers do not match your alternatives map, your positioning is aimed at the wrong comparison set and everything downstream is off. Panels such as Wynter run this with B2B audiences at speed.
+The competitive-alternative test. Ask prospects what else they are considering. If the answers do not match your alternatives map, your positioning is aimed at the wrong comparison set and everything downstream is off. Panels such as Wynter run this with B2B audiences quickly.
 
 Repositioning is normal and the triggers are recognizable. You are winning a segment you did not aim at. Your win rate against one competitor collapsed. Your product changed enough that the old frame undersells it. Slack's frame shifted from replacing internal email toward being the platform work happens in. Notion moved from notes and documents to "all-in-one workspace" as databases and wikis became the reason teams adopted it.
 
@@ -191,8 +191,7 @@ Person / role | repeated back as | questions asked | verdict
 - Every unique attribute is something a competitor cannot honestly claim, and you can prove it in a demo.
 - The alternatives list includes "do nothing" or a spreadsheet, with a written reason someone would choose it.
 - At least three of five test participants describe the product back in roughly the frame you intended, unprompted.
-- The document names one thing you are deliberately worse at.
-- The category term is one your buyers already use, or you have written what educating them will cost and who will do it.
+- The document names one thing you are deliberately worse at, and the category term is one your buyers already use (or you have written what educating them will cost).
 
 ## Self-check
 
@@ -205,8 +204,8 @@ Answer these without looking back. If you cannot, reread the relevant section.
 5. What did positioning against email rather than against chat tools do for Slack that a chat-tool frame would not have?
 6. Your strongest competitive alternative turns out to be "do nothing". What does that change about your positioning and your content?
 7. Describe two cheap ways to test positioning with real people, and what result counts as a pass.
-8. Name three triggers that mean it is time to reposition.
-9. What is the difference between positioning, messaging and a tagline? Which one does a customer read?
+8. Name three triggers that mean it is time to reposition, and say what else has to change besides the website.
+9. What is the difference between positioning, messaging and a tagline? Which does a customer read?
 
 **You are done with this week when:**
 - [ ] Your one-page positioning document exists with all five components, a chosen category strategy, and a written tradeoff.
