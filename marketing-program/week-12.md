@@ -28,11 +28,7 @@ Second, quality. Google ranks ads by something close to bid multiplied by an exp
 
 This is why a relevant advertiser pays less than an irrelevant one for the same position. If your ad says exactly what the searcher typed and your page delivers exactly that, your effective cost per click can be a fraction of a competitor's bidding higher with generic creative. Relevance is a discount, and it is the main lever a small company has against a funded one.
 
-![Supply and demand curves meeting at an equilibrium price and quantity](https://upload.wikimedia.org/wikipedia/commons/8/8c/Supply-demand-equilibrium.svg)
-
-*An ad auction is this diagram running every few milliseconds: supply of impressions is fixed by how many people search, demand is every advertiser's bid, and the clearing price is what you pay. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Supply-demand-equilibrium.svg)*
-
-That picture explains the prices you will see. A click from someone searching "SOC 2 compliance software" costs many times a click from someone scrolling a feed: the searcher is scarce and close to a purchase, and everyone in the category wants them. It is also why costs rise every year in established categories, and why a narrower, less contested market is a pricing strategy, not just a positioning one.
+An auction is supply and demand running every few milliseconds: supply of impressions is fixed by how many people search, demand is every advertiser's bid, and the clearing price is what you pay. That is why a click from someone searching "SOC 2 compliance software" costs many times a click from someone scrolling a feed, why costs rise every year in established categories, and why a narrower, less contested market is a pricing strategy, not just a positioning one.
 
 Automated bidding works only with enough conversion data to learn from, so below roughly 30 conversions a month, bid manually or with a cost cap.
 

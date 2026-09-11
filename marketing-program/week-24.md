@@ -10,7 +10,7 @@ Twenty-three weeks ago you could ship software and could not explain who your pr
 
 This week turns the pile into a system. A system has a loop, an owner, a frequency and a measurement, and it keeps running while you are distracted by a production incident or a fundraise. Tactics rot: channels get more expensive, a competitor copies your comparison page. The loop that produced the tactic survives, which is why the real deliverable was never "a landing page" but the ability to produce the right landing page again next quarter.
 
-Most founders finish a program like this and change nothing, because the gap between knowing and operating is a scheduling problem rather than a knowledge problem. It looks like this: the positioning document is excellent and the website still says what it said two years ago, because nobody put "make the site match the positioning" on a calendar with a date and an owner. The audit below exists to catch that gap, output by output. The other half of the week is diagnosis, because when revenue is flat founders reach for a tactic, and the fix for a traffic problem and the fix for an activation problem have nothing in common.
+Most founders finish a program like this and change nothing, because the gap between knowing and operating is a scheduling problem rather than a knowledge problem. It looks like this: the positioning document is excellent and the website still says what it said two years ago, because nobody put "make the site match the positioning" on a calendar with a date and an owner. The audit below catches that gap, output by output. The other half of the week is diagnosis, because when revenue is flat founders reach for a tactic, and the fix for a traffic problem and the fix for an activation problem have nothing in common.
 
 Outputs: an audit of all 23 prior artifacts with a keep, fix or kill verdict, a maturity score on four dimensions, a cause and effect diagram for your biggest constraint, and a 90-day plan with owners and dates.
 
@@ -26,7 +26,7 @@ Everything in this program fits into six activities that feed each other. Resear
 
 The stages run at different speeds. Research runs monthly, and five customer conversations a month keeps your model of the market accurate; it is the habit founders drop first. Positioning is reviewed quarterly and changed rarely, because positioning that changes every quarter was never validated. Messaging updates when positioning changes or when the same objection appears three times in sales calls. Distribution, measurement and experiment verdicts run weekly.
 
-Each stage has a failure mode that surfaces downstream and gets misdiagnosed. Skip research and your messaging becomes a description of your feature list, which converts badly and gets blamed on the landing page. Skip positioning and every channel underperforms, because you pay to reach people who compare you against the wrong alternatives. Skip measurement and you keep funding the channel that feels good.
+Each stage has a failure mode that surfaces downstream and gets misdiagnosed. Skip research and your messaging becomes a description of your feature list, which converts badly and gets blamed on the landing page. Skip positioning and every channel underperforms, because you pay to reach people who compare you against the wrong alternatives.
 
 Basecamp runs the loop slowly and well: positioning held for years, a voice nobody else uses, distribution through the founders' own writing. Notion runs it fast on distribution while positioning stood still, adding templates, ambassadors and community on top of an unchanged all-in-one workspace frame. What fails is changing positioning every time distribution disappoints.
 
@@ -40,7 +40,7 @@ Knowing where you are stops you doing the wrong good thing. Attribution modeling
 
 *Score each row separately and be strict; most companies are a level lower than the founder thinks, because the founder grades the document rather than what a new employee would find.*
 
-Level 1, ad hoc: positioning lives in your head and shifts with the audience, channels are whatever came up, metrics are visits and followers, there is no cadence. Level 2, defined: positioning is written and on the site, one channel has had a proper test, revenue is tracked, someone looks monthly. Level 3, repeatable: customers repeat your positioning back, one channel is scaling with a loop feeding it, and a metrics tree, dashboard and weekly review all exist. Level 4, compounding: you own a category frame in your buyers' language, several channels plus brand work together, and quarterly planning sits above weekly operations.
+Level 1, ad hoc: positioning lives in your head and shifts with the audience, channels are whatever came up, metrics are visits and followers. Level 2, defined: positioning is written and on the site, one channel has had a proper test, revenue is tracked. Level 3, repeatable: customers repeat your positioning back, one channel is scaling with a loop feeding it, and a metrics tree, dashboard and weekly review all exist. Level 4, compounding: you own a category frame in your buyers' language, several channels plus brand work together, and quarterly planning sits above weekly operations.
 
 Lift your lowest dimension before advancing your highest. A company at level 3 on channels and level 1 on positioning is spending efficiently on the wrong message, and every extra dollar makes the mismatch more expensive. Superhuman is the clean example: before scaling distribution, the team built a survey and a process to find who the product was genuinely essential for, narrowed product and message to those people, then opened the funnel.
 
@@ -52,7 +52,7 @@ Be suspicious of level 4 ambitions at small scale. Incrementality tests, brand t
 
 An audit is not a check that you did the homework. It checks whether each artifact is current, true and in use. Three verdicts only: keep (accurate and used), fix (right idea, out of date or never implemented), kill (wrong, or something you will never run).
 
-Go in order. Week 1 produced the diagnosis of what was broken; reread it, because seeing which problems you actually solved is the most useful half hour of this week. Week 2 produced five interviews and an insight summary, and the test is the date, since research older than six months describes a market that has moved. Week 3 produced the ICP and target list; check it against who actually paid, because revenue is a better ICP source than a workshop. Week 4 produced the positioning document; check that customers repeat it and the homepage matches it.
+Go in order. Week 1 produced the diagnosis of what was broken; reread it, because seeing which problems you actually solved is the most useful half hour of this week. Week 2 produced five interviews and an insight summary, and the test is the date, since research older than six months describes a market that has moved. Week 3 produced the ICP and target list; check it against who actually paid. Week 4 produced the positioning document; check that customers repeat it and the homepage matches it.
 
 Weeks 5 to 8 produced the messaging document and objection map, the rewritten hero and landing page, the brand guide with its voice chart, and the strategic narrative with a case study. The failure here is drift: document, site, deck and onboarding emails each say something slightly different. Read them side by side and make one match the other.
 
@@ -72,7 +72,7 @@ When a number is bad, the useful question is not "what should we try" but "which
 
 Six bones cover nearly everything in software marketing: audience (wrong people arriving), message (right people, unclear claim), product (people try and never reach value), channel (the reach mechanism is broken or too expensive), pricing and packaging (price or tiers block the purchase), and measurement (the number is wrong and nothing is broken). Keep measurement on the list, because a surprising share of emergencies are tracking regressions. Before the war room, check whether the tag fired.
 
-Take a common case: signups up, paid conversions flat. Has the traffic mix shifted outside the week 3 ICP (audience)? Does self-reported attribution show a different expectation (message)? Has the week 17 activation rate moved for recent cohorts (product)? Did a new tier make staying free comfortable (pricing)? Did a consent banner or domain change break events (measurement)? Fix one bone at a time, or you learn nothing. Week 18's warning about Simpson's paradox applies: an aggregate can fall while every segment inside it rises, purely from mix.
+Take a common case: signups up, paid conversions flat. Has the traffic mix shifted outside the week 3 ICP, has the week 17 activation rate moved for recent cohorts, did a new tier make staying free comfortable, did a consent banner break events? Fix one bone at a time, or you learn nothing. Week 18's warning about Simpson's paradox applies: an aggregate can fall while every segment inside it rises, purely from mix.
 
 Once you know the constraint, decide what kind of problem it is.
 
@@ -96,7 +96,7 @@ Ninety days is the right unit because it is long enough to see a channel test th
 
 Days 1 to 30, fix foundations. Take the fix items everything else depends on: make the homepage match the positioning document, repair tracking so the dashboard is trustworthy, ship the week 13 onboarding sequence, close the week 17 activation gap. These are unglamorous and they multiply everything after them.
 
-Days 31 to 60, run channel tests. Pick two channels from your week 9 hypotheses and write each test plan before starting: budget or hours, duration, the deciding metric, and the pass threshold. Four weeks is the minimum for anything with a sales cycle, so start both on day 31 rather than staging them, and keep everything else at maintenance level.
+Days 31 to 60, run channel tests. Pick two channels from your week 9 hypotheses and write each test plan before starting: budget or hours, duration, deciding metric, pass threshold. Four weeks is the minimum for anything with a sales cycle, so start both on day 31 rather than staging them, and keep everything else at maintenance level.
 
 Days 61 to 90, double down and systematize. Write the verdicts, move budget to whatever passed using the week 22 reallocation rules, then write the playbook for the winning channel: steps, frequency, templates, owner, and the metric that says it is healthy. Founders skip this step, and it is the one that makes next quarter cheaper and lets a first hire or a freelancer produce the same output without you.
 
@@ -124,7 +124,7 @@ Set constraints at the start. Cap active initiatives at three, name one owner ea
 
 ## How to keep learning after this program
 
-Marketing changes at the surface and stays stable underneath. Buying behavior, attention and trust work roughly as they did twenty years ago; channels, tools and formats churn constantly. Spend most of your time on the durable layer and sample the surface layer only when you are about to act on it.
+Marketing changes at the surface and stays stable underneath. Buying behavior, attention and trust work roughly as they did twenty years ago; channels, tools and formats churn constantly. Spend most of your time on the durable layer and sample the surface only when you are about to act on it.
 
 Weekly, three or four sources are enough: [Lenny's Newsletter](https://www.lennysnewsletter.com/) for benchmarks, [MKT1](https://newsletter.mkt1.co/) for how marketing teams are built and run, [Growth Unhinged](https://www.growthunhinged.com/) for pricing and go-to-market data, and [Marketing Examples](https://marketingexamples.com/) for copy teardowns. Treat [Brian Balfour's essays](https://brianbalfour.com/essays) and [Andrew Chen's essays](https://andrewchen.com/) as archives to mine, not feeds to follow.
 
@@ -147,7 +147,7 @@ Two habits beat any source. Read one primary source a month instead of ten summa
 4. (30 minutes) State your biggest constraint as an effect ("trials do not convert"), draw the six-bone fishbone, write evidence for or against each cause, and finish with one named constraint and what would confirm it.
 5. (10 minutes) Classify your next three pieces of work as complicated (find the playbook) or complex (write the test and its spend cap).
 6. (45 minutes) Write the 90-day plan in three blocks: foundations, two channel tests with pass thresholds, then verdicts, budget moves and one written playbook. Three active initiatives maximum.
-7. (20 minutes) Break it into thirteen rows, one per week, each with what ships and what gets decided. Rescope anything that does not fit the hours you have.
+7. (20 minutes) Break it into thirteen rows, one per week, each with what ships and what gets decided.
 8. (15 minutes) Put every recurring slot in the calendar for the quarter, then pick your three learning sources and unsubscribe from the rest.
 
 **Template:**
@@ -213,7 +213,7 @@ Answer these without looking back. If you cannot, reread the relevant section.
 
 Twenty years in, here is the short list of what held up.
 
-Talking to customers was the highest return activity in every company, every year. Not surveys, not dashboards, conversations. Every positioning decision that worked, every headline that converted, every pricing change that stuck came from something a customer said in their own words. Founders who kept doing this after it stopped being novel had a permanent advantage over the ones who delegated it.
+Talking to customers was the highest return activity in every company, every year. Not surveys, not dashboards, conversations. Every positioning decision that worked, every headline that converted, every pricing change that stuck came from something a customer said in their own words. Founders who kept doing this after it stopped being novel had a permanent advantage over those who delegated it.
 
 Narrowing worked and it always felt wrong. Every time a company picked a narrower audience, revenue went up, and every time the decision was argued about first because it looked like shrinking the market.
 
@@ -227,7 +227,7 @@ Most metrics were noise. A few mattered: activation, retention by cohort, paybac
 
 Saying no separated good marketers from busy ones. The conference booth, the rebrand, the fourth channel, the podcast: each defensible alone, together a quarter with nothing finished.
 
-And the people who got good at this wrote things down: predictions before tests, verdicts after them, what the customer said in their own words, why a decision was made. Memory reshapes the past to fit what you now believe. The written record is the difference between a founder who has run marketing for five years and one who has run year one five times.
+And the people who got good at this wrote things down: predictions before tests, verdicts after them, why a decision was made. Memory reshapes the past to fit what you now believe. The written record is the difference between a founder who has run marketing for five years and one who has run year one five times.
 
 ## Next week
 
