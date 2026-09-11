@@ -8,11 +8,11 @@
 
 You picked a beachhead in week 3. Positioning is the decision that follows it: given that those people are your first market, what should they conclude about you in the first ten seconds?
 
-Positioning is context. It is the frame a buyer uses to decide what your product is comparable to, what it should cost, and whether it deserves attention. Buyers do this automatically and fast. If you do not choose the frame, they choose one for you, usually the most familiar category available, and judge you by its rules. A workflow platform filed under "project management" gets compared to tools costing a tenth of your price on features you never intended to have.
+Positioning is context: the frame a buyer uses to decide what your product is comparable to, what it should cost, and whether it deserves attention. Buyers do this automatically and fast. If you do not choose the frame, they choose one for you, usually the most familiar category available, and judge you by its rules. A workflow platform filed under "project management" gets compared to tools costing a tenth of your price on features you never intended to have.
 
-Most founders get this wrong in a specific way. They treat positioning as a writing exercise, sit down with a template, and fill in blanks about their product. It is not a writing exercise. It is a set of decisions about competitors, differentiation, value, audience, and category, made in that order, and the writing is the last five percent. If you start with words you will describe your product. If you start with the alternatives your buyer is actually weighing, you will describe why you win.
+Most founders get this wrong in a specific way. They treat positioning as a writing exercise, sit down with a template, and fill in blanks about their product. It is instead a set of decisions about competitors, differentiation, value, audience and category, made in that order, and the writing is the last five percent. If you start with words you will describe your product. If you start with the alternatives your buyer is actually weighing, you will describe why you win.
 
-The second common error is confusing positioning with messaging. Positioning is an internal decision document that nobody outside your company reads. Messaging (week 5) is the customer-facing language you derive from it, and a tagline is one small piece of messaging. Founders who skip to the tagline get a clever sentence that nothing else in the company supports.
+The second common error is confusing positioning with messaging. Positioning is an internal decision document nobody outside the company reads. Messaging (week 5) is the customer-facing language you derive from it, and a tagline is one small piece of messaging. Founders who skip to the tagline get a clever sentence nothing else supports.
 
 What changes when you get positioning right is that a lot of other arguments stop. Which features to build first, which competitors to put on the comparison page, what to charge: all of these get easier once there is a written answer to "what are we, and to whom?" Sales calls get shorter because the prospect stops trying to work out what bucket you belong in.
 
@@ -40,7 +40,7 @@ The first component of April Dunford's method, and the one founders skip, is an 
 
 *Place every alternative by how well it does the job and what it costs the buyer in money and effort; the bottom-left box, doing nothing or using a spreadsheet, is the alternative that beats most early-stage software.*
 
-Doing nothing, or a spreadsheet and a recurring meeting, is the most common competitor for any new platform and the one founders leave off the list. It is cheap, already in place, and does the job badly enough that people tolerate it. If you lose deals to "we decided not to do anything this quarter", that is your real competitor, and you have to beat it on urgency, not on features.
+Doing nothing, or a spreadsheet and a recurring meeting, is the most common competitor for any new platform and the one founders leave off the list. It is cheap, already in place, and does the job badly enough that people tolerate it. If you lose deals to "we decided not to do anything this quarter", beat it on urgency, not on features.
 
 Hiring people or an agency is the expensive alternative that works. It competes with anything that automates judgment or labor, and it scales badly, which is where your differentiation usually lives.
 
@@ -62,13 +62,13 @@ Dunford's method is a sequence of five components, and the order is what makes i
 
 Competitive alternatives, covered above, define what you are compared with.
 
-Unique attributes are the capabilities you have that the alternatives do not. They should be factual and checkable: an architecture, a data set, an integration, a delivery model, a business model, a workflow you support end to end. "Easy to use" is not a unique attribute, because competitors say it too and nobody can verify it. "Runs inside the customer's own cloud account" is one, because it is either true or false.
+Unique attributes are capabilities you have that the alternatives do not. They should be factual and checkable: an architecture, a data set, an integration, a delivery model, a business model, a workflow you support end to end. "Easy to use" is not one, because competitors say it too and nobody can verify it. "Runs inside the customer's own cloud account" is, because it is either true or false.
 
-Value is what those attributes let the customer do. Every attribute should map to a value statement; if it does not, it is a feature you like rather than a differentiator. Run each through "so what?" twice. Running inside the customer's cloud account means data never leaves their perimeter, which means the security review takes days instead of months, which means the project ships this quarter. The last link is the one a buyer cares about.
+Value is what those attributes let the customer do. Every attribute should map to a value statement; if it does not, it is a feature you like, not a differentiator. Run each through "so what?" twice. Running inside the customer's cloud account means data never leaves their perimeter, which means the security review takes days instead of months, which means the project ships this quarter. The last link is the one a buyer cares about.
 
-Best-fit customers are the people who care disproportionately about that value. This is where week 3 pays off: your ICP characteristics should predict caring about your specific value, not just be easy to filter on. If your value is a fast security review, your best-fit customers are regulated or enterprise buyers, and a startup buyer will not pay for it.
+Best-fit customers are the people who care disproportionately about that value. This is where week 3 pays off: your ICP characteristics should predict caring about your specific value, not just be easy to filter on. If your value is a fast security review, your best-fit customers are regulated or enterprise buyers, and a startup will not pay for it.
 
-Market category is the frame you put around all of it so the value is obvious. It is chosen last, on purpose. The category is not a fact about your product, it is a decision about which buyer expectations you inherit. Choose the one whose default expectations are closest to your strengths and whose budget already exists.
+Market category is the frame you put around all of it so the value is obvious. It is chosen last, on purpose: the category is not a fact about your product, it is a decision about which buyer expectations you inherit. Choose the one whose expectations are closest to your strengths and whose budget already exists.
 
 An optional sixth component is trends. If a real shift in your buyer's world (a regulation, a platform change, a change in how teams work) makes your value more urgent, attach your positioning to it. The discipline is that the trend must make your value matter more, not just sound current.
 
@@ -110,15 +110,15 @@ The failure mode is positioning on something true today and copyable tomorrow. S
 
 ### 6. Testing positioning, and repositioning when it stops working
 
-Positioning tested only inside the building is a hypothesis. There are three cheap tests; run at least two this week.
+Positioning tested only inside the building is a hypothesis. There are three cheap tests; run two this week.
 
 The sales-call test. Use the new positioning at the top of your next five calls and measure two things: how many follow-up questions the prospect asks about what you are (fewer is better), and whether they repeat your frame back in their own words. When someone says "so this is basically X for Y teams" and that is what you intended, it is working.
 
-The repeat-back test. Show your positioning statement to five people in your ICP for a minute, take it away, and ask them to describe the product to a colleague. What they say is your actual positioning, whatever you wrote.
+The repeat-back test. Show your positioning statement to five people in your ICP for a minute, take it away, and ask them to describe the product to a colleague. What they say is your real positioning, whatever you wrote.
 
 The competitive-alternative test. Ask prospects what else they are considering. If the answers do not match your alternatives map, your positioning is aimed at the wrong comparison set and everything downstream is off. Panels such as Wynter run this with B2B audiences quickly.
 
-Repositioning is normal and the triggers are recognizable. You are winning a segment you did not aim at. Your win rate against one competitor collapsed. Your product changed enough that the old frame undersells it. Slack's frame shifted from replacing internal email toward being the platform work happens in. Notion moved from notes and documents to "all-in-one workspace" as databases and wikis became the reason teams adopted it.
+Repositioning is normal and the triggers are recognizable. You are winning a segment you did not aim at. Your win rate against a competitor collapsed. Your product changed enough that the old frame undersells it. Slack's frame shifted from replacing internal email toward being the platform work happens in. Notion moved from notes and documents to "all-in-one workspace" as databases and wikis became the reason teams adopted it.
 
 When you reposition, keep the old term reachable for a while so buyers searching it still find you. The failure mode is repositioning on the website and nowhere else. Sales decks, onboarding emails, support macros and your pitch at events all carry positioning. Change them together, or you will run two positions at once, which is worse than either.
 
@@ -150,9 +150,9 @@ When you reposition, keep the old term reachable for a while so buyers searching
 1. (30 minutes) Build the competitive alternatives list from evidence: switch stories from your week 2 interviews, lost-deal reasons from your notes, and three recent customers asked what they would have done without you. Place each alternative on the two-by-two map.
 2. (40 minutes) List your unique attributes, and for each write the name of an alternative that does not have it. If you cannot name one, delete the attribute. Aim for three to six survivors, all factual and checkable. Then convert each to value: ask "so what?" twice and keep the second answer, which is the buyer-level outcome.
 3. (20 minutes) Name the best-fit customers using your week 3 ICP. Write the characteristics that predict caring most about the value you just wrote, and mark any ICP criteria that turn out not to predict it.
-4. (30 minutes) Choose the category strategy. Write one paragraph each for head-to-head, big fish small pond and new category as applied to your platform, pick one, and write two sentences on why the others are wrong for you today. Search your candidate term to see whether buyers use it.
+4. (30 minutes) Choose the category strategy. Write a paragraph each for head-to-head, big fish small pond and new category as applied to your platform, pick one, and write two sentences on why the others are wrong for you today. Search your candidate term to see whether buyers use it.
 5. (20 minutes) Write the document using the template below. Keep it to one page. If it will not fit, you have not chosen.
-6. (45 minutes) Test it. Run the repeat-back test with five people in your ICP and use the new frame at the top of your next two calls or demos. Record what they said verbatim.
+6. (45 minutes) Test it. Run the repeat-back test with five people in your ICP and use the new frame at the top of your next two demos. Record what they said verbatim.
 7. (20 minutes) Revise, then list every place the old positioning lives: homepage, deck, onboarding emails, support macros, job posts, your own one-line introduction. That list is your week 5 and week 6 work queue.
 
 **Template:**
@@ -198,7 +198,7 @@ Person / role | repeated back as | questions asked | verdict
 Answer these without looking back. If you cannot, reread the relevant section.
 
 1. Why must positioning start from competitive alternatives rather than from your feature list?
-2. Name the five positioning components in order and explain why the market category is chosen last.
+2. Name the five positioning components in order and say why the category is chosen last.
 3. What is the difference between a unique attribute and a value statement, and what question gets you from one to the other?
 4. Give the three category strategies, the sentence pattern for each, and the main risk of each, and say which one fits most early-stage companies.
 5. What did positioning against email rather than against chat tools do for Slack that a chat-tool frame would not have?
@@ -215,4 +215,4 @@ Answer these without looking back. If you cannot, reread the relevant section.
 
 ## Next week
 
-You have decided what you are, who it is for, and what you are competing against. Next week you turn that internal document into words customers actually see: a messaging hierarchy with a one-liner, a value proposition, three pillars with proof, and an objection map.
+You have decided what you are, who it is for, and what you are competing against. Next week you turn that internal document into words customers see: a messaging hierarchy with a one-liner, a value proposition, three pillars with proof, and an objection map.

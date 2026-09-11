@@ -6,13 +6,11 @@
 
 ## What this week covers and why it matters for a founder
 
-Twenty-three weeks ago you could ship software and could not explain who your product was for in a sentence a stranger would repeat back. Since then you have interviewed customers, written an ICP, positioned the product, rewritten the site, picked channels, built a loop, instrumented the funnel, priced the thing, and set a cadence. You have a pile of documents. A pile of documents is not a marketing function.
+Twenty-three weeks ago you could ship software and could not explain who your product was for in a sentence a stranger would repeat back. Since then you have interviewed customers, written an ICP, positioned the product, rewritten the site, picked channels, built a loop, instrumented the funnel, priced the thing, and set a cadence. You now have a pile of documents, and a pile of documents is not a marketing function.
 
-This week turns the pile into a system. A system has a loop, an owner, a frequency and a measurement, and it keeps running while you are distracted by a production incident or a fundraise. Tactics rot: channels get more expensive, algorithms change, a competitor copies your comparison page. The loop that produced the tactic is what survives, which is why the real deliverable of this program was never "a landing page" but the ability to produce the right landing page again next quarter.
+This week turns the pile into a system. A system has a loop, an owner, a frequency and a measurement, and it keeps running while you are distracted by a production incident or a fundraise. Tactics rot: channels get more expensive, algorithms change, a competitor copies your comparison page. The loop that produced the tactic is what survives, which is why the real deliverable was never "a landing page" but the ability to produce the right landing page again next quarter.
 
-Most founders finish a program like this and change nothing, because the gap between knowing and operating is a scheduling problem rather than a knowledge problem. It looks like this: the positioning document is excellent and the website still says what it said two years ago, because nobody put "make the site match the positioning" on a calendar with a date and an owner. The audit below exists to catch that gap, output by output.
-
-This week also teaches you to diagnose. When revenue is flat, founders reach for a tactic ("we should do more LinkedIn"). An experienced marketer asks which stage is broken first, because the fix for a traffic problem and the fix for an activation problem have nothing in common, and picking wrong costs a quarter.
+Most founders finish a program like this and change nothing, because the gap between knowing and operating is a scheduling problem rather than a knowledge problem. It looks like this: the positioning document is excellent and the website still says what it said two years ago, because nobody put "make the site match the positioning" on a calendar with a date and an owner. The audit below exists to catch that gap, output by output. The other half of the week is diagnosis, because when revenue is flat founders reach for a tactic, and the fix for a traffic problem and the fix for an activation problem have nothing in common.
 
 Outputs: an audit of all 23 prior artifacts with a keep, fix or kill verdict on each, a maturity score across four dimensions, a cause and effect diagram for your biggest constraint, and a 90-day plan with owners and dates.
 
@@ -20,35 +18,35 @@ Outputs: an audit of all 23 prior artifacts with a keep, fix or kill verdict on 
 
 ### 1. The marketing system loop: research, position, message, distribute, measure, learn
 
-Everything in this program fits into six activities that feed each other. Research tells you who has the problem and in what words they describe it. Positioning decides which market you compete in and why you win it. Messaging turns that into language. Distribution puts the language in front of people through channels and loops. Measurement tells you what happened. Learning feeds back into research, and the loop turns again.
+Everything in this program fits into six activities that feed each other. Research tells you who has the problem and in what words. Positioning decides which market you compete in and why you win it. Messaging turns that into language. Distribution puts the language in front of people through channels and loops. Measurement tells you what happened. Learning feeds back into research, and the loop turns again.
 
 ![The six-stage marketing system loop: research, position, message, distribute, measure and learn, drawn as a closed cycle](images/w24-marketing-system.svg)
 
 *The loop, not any single stage, is what this program was building; note the frequency written beside each stage, because a stage with no frequency is a stage that silently stops.*
 
-The stages run at different speeds. Research runs monthly, and five customer conversations a month is enough to keep your model of the market accurate; it is the habit founders drop first. Positioning is reviewed quarterly and changed rarely, because positioning that changes every quarter was never validated. Messaging updates when positioning changes or when the same objection appears three times in sales calls. Distribution, measurement and experiment verdicts run weekly. The full retro runs quarterly.
+The stages run at different speeds. Research runs monthly, and five customer conversations a month is enough to keep your model of the market accurate; it is the habit founders drop first. Positioning is reviewed quarterly and changed rarely, because positioning that changes every quarter was never validated. Messaging updates when positioning changes or when the same objection appears three times in sales calls. Distribution, measurement and experiment verdicts run weekly; the full retro runs quarterly.
 
-Each stage has a failure mode that surfaces downstream and gets misdiagnosed. Skip research and your messaging becomes a description of your feature list, which converts badly and gets blamed on the landing page. Skip positioning and every channel underperforms, because you pay to reach people who compare you against the wrong alternatives. Skip measurement and you keep funding the channel that feels good. Skip learning and you run the same experiment three times in eighteen months.
+Each stage has a failure mode that surfaces downstream and gets misdiagnosed. Skip research and your messaging becomes a description of your feature list, which converts badly and gets blamed on the landing page. Skip positioning and every channel underperforms, because you pay to reach people who compare you against the wrong alternatives. Skip measurement and you keep funding the channel that feels good.
 
-Basecamp shows the loop running slowly and well: positioning held for years, messaging in a voice nobody else uses, distribution mostly through the founders' own writing, and a refusal to chase channels. Notion shows it running fast on distribution while positioning stayed still: the all-in-one workspace frame did not move while template galleries, ambassadors and community distribution were built on top of it. What does not work is changing the positioning every time distribution disappoints.
+Basecamp runs the loop slowly and well: positioning held for years, a voice nobody else uses, distribution mostly through the founders' own writing. Notion runs it fast on distribution while positioning stayed still, with template galleries, ambassadors and community built on top of an unchanged all-in-one workspace frame. What does not work is changing positioning every time distribution disappoints.
 
-The test for whether you have a loop: name the date of your last customer conversation, the date positioning was last reviewed, the date the dashboard was last filled in, and the date of your last written experiment verdict. If any is more than a quarter old, that stage is not running, whatever the document says.
+The test for whether you have a loop: name the date of your last customer conversation, the last positioning review, the last dashboard update, and the last written experiment verdict. If any is more than a quarter old, that stage is not running, whatever the document says.
 
 ### 2. Maturity: an honest self-assessment on four dimensions
 
-Knowing where you are stops you doing the wrong good thing. Attribution modeling is real work and it is the wrong work for a company whose positioning still lives in the founder's head. Four dimensions matter for a software company, and you can sit at different levels on each.
+Knowing where you are stops you doing the wrong good thing. Attribution modeling is real work and it is the wrong work for a company whose positioning still lives in the founder's head. Four dimensions matter, and you can sit at different levels on each.
 
 ![A four-level marketing maturity model scored across positioning, channels, measurement and cadence](images/w24-maturity-model.svg)
 
 *Score each row separately and be strict; most companies are a level lower than the founder thinks, because the founder grades the document rather than what a new employee would find.*
 
-Level 1, ad hoc: positioning lives in your head and shifts with the audience, channels are whatever came up, metrics are visits and followers, there is no cadence. Level 2, defined: positioning is written and on the site, one channel has had a proper test, signups and revenue are tracked, someone looks monthly. Level 3, repeatable: positioning is validated by customers who repeat it back, one channel is scaling with a loop feeding it, there is a metrics tree and a weekly dashboard, and the weekly review happens. Level 4, compounding: you own a category frame in your buyers' language, several channels plus brand work together, you measure attribution and incrementality, and quarterly planning sits above weekly operations.
+Level 1, ad hoc: positioning lives in your head and shifts with the audience, channels are whatever came up, metrics are visits and followers, there is no cadence. Level 2, defined: positioning is written and on the site, one channel has had a proper test, revenue is tracked, someone looks monthly. Level 3, repeatable: customers repeat your positioning back, one channel is scaling with a loop feeding it, and a metrics tree, dashboard and weekly review all exist. Level 4, compounding: you own a category frame in your buyers' language, several channels plus brand work together, and quarterly planning sits above weekly operations.
 
 The rule is to lift your lowest dimension before advancing your highest. A company at level 3 on channels and level 1 on positioning is spending efficiently on the wrong message, and every extra dollar makes the mismatch more expensive. Superhuman is the clean example of fixing the lowest dimension first: before scaling distribution, the team built a survey and a process to find who the product was genuinely essential for, narrowed product and message to those people, and only then opened the funnel.
 
-Two honest tests. For positioning, ask three recent customers what your product does and who it is for; three different answers means level 1 or 2 whatever the document says. For cadence, open your calendar and look for the recurring slot; no slot means you are not level 3.
+Two honest tests. For positioning, ask three recent customers what your product does and who it is for; three different answers means level 1 or 2 whatever the document says. For cadence, open your calendar and look for the recurring slot.
 
-Be suspicious of level 4 ambitions at small scale. Incrementality tests, brand tracking and multi-touch attribution need volume to produce signal. Below a few thousand conversions a year they produce expensive noise, and the honest substitutes are the self-reported attribution question on your signup form and a holdout if you can build one.
+Be suspicious of level 4 ambitions at small scale. Incrementality tests, brand tracking and multi-touch attribution need volume to produce signal, and below a few thousand conversions a year they produce expensive noise. The honest substitute is the self-reported attribution question on your signup form.
 
 ### 3. The audit: what weeks 1 to 23 produced and the verdict on each
 
@@ -56,13 +54,13 @@ An audit is not a check that you did the homework. It checks whether each artifa
 
 Go in order. Week 1 produced the diagnosis of what was broken; reread it, because seeing which problems you actually solved is the most useful half hour of this week. Week 2 produced five interviews and an insight summary, and the test is the date, since research older than six months describes a market that has moved. Week 3 produced the ICP and target list; check it against who actually paid, because revenue is a better ICP source than a workshop. Week 4 produced the positioning document; check that customers repeat it and the homepage matches it.
 
-Weeks 5 to 8 produced the messaging document and objection map, the rewritten hero and landing page, the brand guide with a voice chart, and the strategic narrative with a case study. The failure here is drift: the messaging document, the site, the deck and the onboarding emails each say something slightly different. Read them side by side and make one match the other.
+Weeks 5 to 8 produced the messaging document and objection map, the rewritten hero and landing page, the brand guide with its voice chart, and the strategic narrative with a case study. The failure here is drift: the document, the site, the deck and the onboarding emails each say something slightly different. Read them side by side and make one match the other.
 
 Weeks 9 to 15 produced the channel hypothesis doc, the content strategy and calendar, the keyword map and technical checklist, the paid unit economics model and test plan, the lifecycle map and onboarding sequence, the point-of-view doc and posting plan, and the community or partnership plan. Audit these on evidence, not intent. For each channel: did it get a real test, what was the written verdict, is it running now? Channels with no written verdict are the biggest source of wasted years, because they get retried on feel.
 
-Weeks 16 to 19 produced the growth loop with measured throughput, the activation definition and retention curves, the metrics tree and dashboard, and the ICE-scored experiment backlog. Weeks 20 and 21 produced the value metric and three-tier packaging, and the GTM motion, launch plan and lead definitions. Weeks 22 and 23 produced the annual plan with quarterly bets and cadence, and the stack decision, automation list and hiring plan. Test each one: does the loop still run at the throughput you measured, has the retention curve flattened, was the dashboard filled in last week, did the packaging ship, did the calendar slots survive a busy month?
+Weeks 16 to 19 produced the growth loop with measured throughput, the activation definition and retention curves, the metrics tree and dashboard, and the ICE-scored experiment backlog. Weeks 20 and 21 produced the value metric and packaging proposal, and the GTM motion, launch plan and lead definitions. Weeks 22 and 23 produced the annual plan with bets and cadence, and the stack, automations and hiring plan. Test each one: does the loop still run at the throughput you measured, has the retention curve flattened, was the dashboard filled in last week, did the packaging ship?
 
-The output is not a report. It is a list of fix items with owners and dates, which becomes the raw material for the 90-day plan. Anything marked fix that gets no date should be honestly re-marked kill.
+The output is a list of fix items with owners and dates, which becomes the raw material for the 90-day plan. Anything marked fix that gets no date should be honestly re-marked kill.
 
 ### 4. Diagnosis: find the constraint, then decide whether to experiment or follow a playbook
 
@@ -74,19 +72,19 @@ When a number is bad, the useful question is not "what should we try" but "which
 
 Six bones cover nearly everything in software marketing: audience (wrong people arriving), message (right people, unclear or unbelievable claim), product (people arrive, try, never reach value), channel (the reach mechanism is broken or too expensive), pricing and packaging (value understood, price or tier structure blocks the purchase), and measurement (the number is wrong and nothing is broken). Keep measurement on the list, because a surprising share of emergencies are tracking regressions. Before the war room, check whether the tag fired.
 
-Take a common case: signups up, paid conversions flat. Audience: has the traffic mix shifted outside the week 3 ICP? Message: did the page change, and does self-reported attribution show people arriving with a different expectation? Product: has the week 17 activation rate moved for recent cohorts? Channel: is a new source sending high-volume, low-intent traffic? Pricing: did a competitor move, or did a new tier make staying free comfortable? Measurement: did an experiment, a consent banner or a domain change break events? Fix one bone at a time, or you learn nothing. Week 18's warning about Simpson's paradox applies: an aggregate can fall while every segment inside it rises, purely from mix.
+Take a common case: signups up, paid conversions flat. Has the traffic mix shifted outside the week 3 ICP (audience)? Did the page change, and does self-reported attribution show a different expectation (message)? Has the week 17 activation rate moved for recent cohorts (product)? Is a new source sending high-volume, low-intent traffic (channel)? Did a new tier make staying free comfortable (pricing)? Did a consent banner or domain change break events (measurement)? Fix one bone at a time, or you learn nothing. Week 18's warning about Simpson's paradox applies: an aggregate can fall while every segment inside it rises, purely from mix.
 
-Once you know the constraint, decide what kind of problem it is. Founders waste effort running creative experiments on problems solved years ago, and equally waste effort copying playbooks for problems nobody has solved in their market.
+Once you know the constraint, decide what kind of problem it is.
 
 ![The Cynefin framework showing clear, complicated, complex and chaotic domains with a different response for each](https://upload.wikimedia.org/wikipedia/commons/1/15/Cynefin_as_of_1st_June_2014.png)
 
 *Different domains need different responses: best practice in the clear domain, expertise in the complicated domain, small probes in the complex domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cynefin_as_of_1st_June_2014.png)*
 
-Complicated problems have known answers that require expertise to apply. Technical SEO is complicated: crawlability, canonical tags, internal linking and speed have documented right answers. Email deliverability is complicated: authenticate the domain, honor unsubscribes, warm up sending, follow the bulk sender rules. Most signup friction is complicated, because the usability literature answered it. Read the manual, buy the expertise, spend your creativity elsewhere.
+Complicated problems have known answers that need expertise to apply. Technical SEO is complicated: crawlability, canonical tags, internal linking and speed have documented right answers. So is email deliverability: authenticate the domain, honor unsubscribes, warm up sending. So is most signup friction, because the usability literature answered it. Read the manual, buy the expertise, spend your creativity elsewhere.
 
-Complex problems have no reliable answer in advance, because the outcome depends on your market, product and moment. Which message resonates with your ICP is complex. Which channel pays back durably for your product is complex. Whether a free tier expands or cannibalizes paid is complex. Here you probe: small, cheap, time-boxed tests with a cap on spend, and you let the answer emerge. Before starting any work, ask whether a competent practitioner would already know the answer. If yes, find the playbook. If no, design the smallest test that would change your mind.
+Complex problems have no reliable answer in advance, because the outcome depends on your market, product and moment. Which message resonates with your ICP, which channel pays back durably, whether a free tier expands or cannibalizes paid: all complex. Here you probe with small, cheap, time-boxed tests under a spend cap. Before starting any work, ask whether a competent practitioner would already know the answer. If yes, find the playbook. If no, design the smallest test that would change your mind.
 
-Both errors cost the same. Treating a complicated problem as complex means A/B testing your way to something Google documented. Treating a complex problem as complicated means copying a growth playbook from a company with a different product, price and buyer, then concluding that marketing does not work. Much of what is sold as a playbook is a complex answer dressed as a complicated one: Airbnb's founders photographing listings by hand is a lesson about unscalable work, not a channel you can copy.
+Both errors cost the same. Treating a complicated problem as complex means testing your way to something Google documented. Treating a complex problem as complicated means copying a playbook from a company with a different product, price and buyer, then concluding that marketing does not work. Airbnb's founders photographing listings by hand is a lesson about unscalable work, not a channel to copy.
 
 ### 5. The 90-day plan: fix, test, then systematize
 
@@ -98,11 +96,11 @@ Ninety days is the right unit because it is long enough to see a channel test th
 
 Days 1 to 30, fix foundations. Take the fix items everything else depends on: make the homepage match the positioning document, repair tracking so the dashboard is trustworthy, ship the week 13 onboarding sequence, close the week 17 activation gap. These are unglamorous and they multiply the value of everything after them.
 
-Days 31 to 60, run channel tests. Pick two channels from your week 9 hypotheses and write each test plan before starting: budget or hours, duration, the deciding metric, and the threshold that counts as a pass. Four weeks is usually the minimum for anything with a sales cycle, so start both on day 31 rather than staging them. Keep everything else at maintenance level; a test month is not a reason to stop publishing or stop talking to customers.
+Days 31 to 60, run channel tests. Pick two channels from your week 9 hypotheses and write each test plan before starting: budget or hours, duration, the deciding metric, and the pass threshold. Four weeks is the minimum for anything with a sales cycle, so start both on day 31 rather than staging them, and keep everything else at maintenance level.
 
-Days 61 to 90, double down and systematize. Write the verdicts. Move budget to whatever passed, using the week 22 reallocation rules. Then write the playbook for the winning channel: steps, frequency, templates, owner, and the metric that says it is healthy. Founders skip this step, and it is the one that makes next quarter cheaper and lets a first hire or a freelancer produce the same output without your attention.
+Days 61 to 90, double down and systematize. Write the verdicts, move budget to whatever passed using the week 22 reallocation rules, then write the playbook for the winning channel: steps, frequency, templates, owner, and the metric that says it is healthy. Founders skip this step, and it is the one that makes next quarter cheaper and lets a first hire or a freelancer produce the same output without your attention.
 
-Set constraints at the start. Cap active initiatives at three. Name one owner each, even when the owner is always you. Put the weekly review in the calendar for all thirteen weeks before the quarter begins. Write one sentence per block stating what you will have learned by its end, because the plan exists to produce decisions rather than activity. The failure mode is a wish list with no dates; the fix is to write it as thirteen weeks, each with what ships and what gets decided.
+Set constraints at the start. Cap active initiatives at three. Name one owner each, even when the owner is always you. Put the weekly review in the calendar for all thirteen weeks before the quarter begins. Write one sentence per block stating what you will have learned by its end, because the plan exists to produce decisions rather than activity. The failure mode is a wish list with no dates; the fix is thirteen rows, each with what ships and what gets decided.
 
 ## Videos
 
@@ -130,31 +128,31 @@ Set constraints at the start. Cap active initiatives at three. Name one owner ea
 
 ## How to keep learning after this program
 
-Marketing changes at the surface and stays stable underneath. Buying behavior, attention and trust work roughly as they did twenty years ago; channels, tools and formats churn constantly. Split your learning the same way: most of your time on the durable layer, and sample the surface layer only when you are about to act on it.
+Marketing changes at the surface and stays stable underneath. Buying behavior, attention and trust work roughly as they did twenty years ago; channels, tools and formats churn constantly. Spend most of your time on the durable layer and sample the surface layer only when you are about to act on it.
 
 Weekly, three or four sources are enough. [Lenny's Newsletter](https://www.lennysnewsletter.com/) for benchmarks, [MKT1](https://newsletter.mkt1.co/) for how marketing teams are built and run, [Growth Unhinged](https://www.growthunhinged.com/) for pricing and go-to-market data, and [Marketing Examples](https://marketingexamples.com/) for short copy teardowns that keep your eye trained. Treat [Brian Balfour's essays](https://brianbalfour.com/essays) and [Andrew Chen's essays](https://andrewchen.com/) as archives to mine, not feeds to follow.
 
 Pick one community where the members do your job: [Exit Five](https://www.exitfive.com/) for B2B marketing, [Indie Hackers](https://www.indiehackers.com/) for small software businesses, [CMX](https://www.cmxhub.com/) if community is your channel, [Heavybit's library](https://www.heavybit.com/library/) if you sell to developers. One active community beats five you lurk in.
 
-Take courses when you need a specific competence, not as general study. [Reforge](https://www.reforge.com/) for growth and product marketing depth, [CXL Institute](https://cxl.com/institute/) for conversion and experimentation rigor, [Y Combinator Startup School](https://www.startupschool.org/) and the [YC Library](https://www.ycombinator.com/library) for founder fundamentals, [Wharton's Introduction to Marketing](https://www.coursera.org/learn/wharton-marketing) for the academic frame, and the free vendor academies for tool skill: [HubSpot Academy](https://academy.hubspot.com/courses/inbound-marketing), [Ahrefs Academy](https://ahrefs.com/academy) and [Google Skillshop](https://skillshop.withgoogle.com/).
+Take courses when you need a specific competence, not as general study: [Reforge](https://www.reforge.com/) for growth depth, [CXL Institute](https://cxl.com/institute/) for conversion and experimentation rigor, [Y Combinator Startup School](https://www.startupschool.org/) and the [YC Library](https://www.ycombinator.com/library) for founder fundamentals, [Wharton's Introduction to Marketing](https://www.coursera.org/learn/wharton-marketing) for the academic frame, and free vendor academies for tool skill ([HubSpot](https://academy.hubspot.com/courses/inbound-marketing), [Ahrefs](https://ahrefs.com/academy), [Google Skillshop](https://skillshop.withgoogle.com/)).
 
-Read books by problem, not by list. Positioning: [April Dunford](https://www.aprildunford.com/), [Crossing the Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm) and [Positioning](https://en.wikipedia.org/wiki/Positioning_(marketing)). Research: [The Mom Test](https://www.momtestbook.com/) and [Know Your Customers' Jobs to Be Done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done). Messaging: [Made to Stick](https://heathbrothers.com/books/made-to-stick/) and [Building a StoryBrand](https://storybrand.com/). Brand: [Ehrenberg-Bass research](https://www.marketingscience.info/) and [The Brand Gap](https://www.slideshare.net/coolstuff/the-brand-gap). Growth and analytics: [Lean Analytics](https://leananalyticsbook.com/) and [Trustworthy Online Controlled Experiments](https://experimentguide.com/). Product-led growth: [Product-Led Growth](https://productled.com/). Sales: [Founding Sales](https://www.foundingsales.com/) and [Predictable Revenue](https://predictablerevenue.com/). Persuasion: [Influence](https://www.influenceatwork.com/) and [Hooked](https://www.nirandfar.com/hooked/).
+Read books by problem, not by list. Positioning: [April Dunford](https://www.aprildunford.com/), [Crossing the Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm) and [Positioning](https://en.wikipedia.org/wiki/Positioning_(marketing)). Research: [The Mom Test](https://www.momtestbook.com/) and [Know Your Customers' Jobs to Be Done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done). Messaging: [Made to Stick](https://heathbrothers.com/books/made-to-stick/) and [Building a StoryBrand](https://storybrand.com/). Brand: [Ehrenberg-Bass](https://www.marketingscience.info/) and [The Brand Gap](https://www.slideshare.net/coolstuff/the-brand-gap). Growth and analytics: [Lean Analytics](https://leananalyticsbook.com/) and [Trustworthy Online Controlled Experiments](https://experimentguide.com/). Product-led growth: [Product-Led Growth](https://productled.com/). Sales: [Founding Sales](https://www.foundingsales.com/) and [Predictable Revenue](https://predictablerevenue.com/). Persuasion: [Influence](https://www.influenceatwork.com/) and [Hooked](https://www.nirandfar.com/hooked/).
 
-Two habits matter more than any source. Read one primary source a month instead of ten summaries, because summaries copy each other and drop the conditions under which the advice held. And write up what you learn in your own words applied to your own company; the note is worth more than the article.
+Two habits beat any source. Read one primary source a month instead of ten summaries, because summaries copy each other and drop the conditions under which the advice held. And write up what you learn in your own words, applied to your own company.
 
 ## Hands-on exercise (3 to 4 hours)
 
-**Deliverable:** one document in your wiki called "Marketing System" containing the audit table for weeks 1 to 23, your maturity scores, a fishbone for your top constraint, and a 90-day plan broken into thirteen weeks.
+**Deliverable:** one document in your wiki called "Marketing System" holding the audit table for weeks 1 to 23, your maturity scores, a fishbone for your top constraint, and a 90-day plan broken into thirteen weeks.
 
 **Steps:**
-1. (45 minutes) Fill in the audit table below for all 23 artifacts: where it lives, when it was last updated, a keep, fix or kill verdict, and one line of reasoning. Do not fix anything yet.
-2. (15 minutes) Score yourself 1 to 4 on positioning, channels, measurement and cadence. Write one sentence of evidence per score and name your lowest dimension.
-3. (20 minutes) Run the two honest tests: ask three recent customers what the product does and who it is for, and check whether the weekly review slot exists and was kept in the last four weeks.
-4. (30 minutes) State your biggest constraint as an effect ("trials do not convert"). Draw the six-bone fishbone, write the evidence for or against each cause, and finish with one named constraint plus what would confirm it.
-5. (10 minutes) Classify your next three pieces of work as complicated (find the playbook, write down where it is) or complex (write the test and its spend cap).
-6. (45 minutes) Write the 90-day plan in three blocks: foundations, two channel tests with pass thresholds, then verdicts, budget moves and one written playbook. Maximum three active initiatives at a time.
-7. (20 minutes) Break it into thirteen rows, one per week, each with what ships and what gets decided. Rescope anything that does not fit the hours you actually have.
-8. (15 minutes) Put every recurring slot in the calendar for the whole quarter, then pick your three learning sources and unsubscribe from the rest.
+1. (45 minutes) Fill in the audit table below for all 23 artifacts: location, last updated, a keep, fix or kill verdict, and one line of reasoning. Do not fix anything yet.
+2. (15 minutes) Score yourself 1 to 4 on positioning, channels, measurement and cadence, with one sentence of evidence each, and name your lowest dimension.
+3. (20 minutes) Run the two honest tests: ask three recent customers what the product does and who it is for, and check whether the weekly review slot exists and was kept.
+4. (30 minutes) State your biggest constraint as an effect ("trials do not convert"), draw the six-bone fishbone, write evidence for or against each cause, and finish with one named constraint and what would confirm it.
+5. (10 minutes) Classify your next three pieces of work as complicated (find the playbook) or complex (write the test and its spend cap).
+6. (45 minutes) Write the 90-day plan in three blocks: foundations, two channel tests with pass thresholds, then verdicts, budget moves and one written playbook. Three active initiatives maximum.
+7. (20 minutes) Break it into thirteen rows, one per week, each with what ships and what gets decided. Rescope anything that does not fit the hours you have.
+8. (15 minutes) Put every recurring slot in the calendar for the quarter, then pick your three learning sources and unsubscribe from the rest.
 
 **Template:**
 
@@ -190,8 +188,7 @@ AUDIT
 
 MATURITY (1 ad hoc, 2 defined, 3 repeatable, 4 compounding)
 Positioning: __  Channels: __  Measurement: __  Cadence: __
-Evidence for each: ...
-Lowest dimension to lift this quarter: ...
+Evidence for each: ...   Lowest dimension to lift: ...
 
 DIAGNOSIS
 Effect: ...
@@ -205,14 +202,13 @@ Days 1 to 30, fix foundations: [3 items, owner, date]
 Days 31 to 60, channel tests: [2 tests, budget/hours, duration, pass threshold]
 Days 61 to 90, double down: [verdicts, budget moves, playbook to write]
 Week by week: W1 ... W13 (what ships / what gets decided)
-Calendar: weekly review [day/time], monthly budget review, 5 customer calls/month, day 90 retro
+Calendar: weekly review, monthly budget review, 5 customer calls/month, day 90 retro
 ```
 
 **How to know it is good:**
 - Every one of the 23 artifacts has a verdict and a location, and every "fix" appears in the plan with a date and an owner.
 - Your maturity scores are backed by evidence a skeptical person would accept, not by the existence of a document.
 - The fishbone ends with one named constraint and confirming evidence, not six things to try.
-- The plan has at most three active initiatives at a time and fits the hours you actually have.
 - Someone else could read the document and run next quarter's marketing without asking you a question.
 
 ## Self-check
@@ -246,17 +242,13 @@ Clarity beat cleverness by a wide margin. Plain sentences saying what the produc
 
 Consistency over years beat intensity over weeks. The companies that won attention published steadily through the quarters when nobody was watching. The big swing usually produced a spike and nothing else. Compounding is slow and boring and it is the only mechanism that ends with a channel you own rather than rent.
 
-Almost nothing worked the first time. The first landing page, ad set, email sequence and webinar were all mediocre. What separated companies was how fast they reached the second and third version, and whether they wrote down what they learned in between.
+Almost nothing worked the first time, and what separated companies was how fast they reached the third version. Distribution deserved as much thought as the product. Technical founders underinvest here and then conclude marketing does not work for their product. Nothing sells itself; the products that looked like they did had distribution designed in deliberately, which is what week 16 was about.
 
-Distribution deserved as much thought as the product. Technical founders underinvest here and then conclude marketing does not work for their product. Nothing sells itself; the products that looked like they did had distribution designed into them deliberately, which is what week 16 was about.
-
-Most metrics were noise. A few mattered: activation, retention by cohort, payback period, revenue. If a number would not change a decision, stop reporting it.
-
-Brand was real, slow, and showed up as things being easier: lower acquisition cost, shorter sales cycles, people already knowing who you were. You cannot attribute it cleanly and you can feel it. Do not cut it because a spreadsheet cannot see it, and do not spend on it before you have positioning worth remembering.
+Most metrics were noise. A few mattered: activation, retention by cohort, payback period, revenue. If a number would not change a decision, stop reporting it. Brand was real, slow, and showed up as things being easier: lower acquisition cost, shorter sales cycles, people already knowing who you were. You cannot attribute it cleanly and you can feel it. Do not cut it because a spreadsheet cannot see it, and do not spend on it before you have positioning worth remembering.
 
 Saying no separated good marketers from busy ones. The conference booth, the rebrand, the fourth channel, the podcast: each defensible alone, together a quarter with nothing finished.
 
-And the people who got good at this wrote things down. Predictions before tests, verdicts after them, what the customer said in their own words, why a decision was made. Memory reshapes what happened to fit what you now believe. The written record is what turns twenty years of activity into twenty years of experience, and it is the difference between a founder who has run marketing for five years and one who has run year one five times.
+And the people who got good at this wrote things down. Predictions before tests, verdicts after them, what the customer said in their own words, why a decision was made. Memory reshapes the past to fit what you now believe. The written record is the difference between a founder who has run marketing for five years and one who has run year one five times.
 
 ## Next week
 
