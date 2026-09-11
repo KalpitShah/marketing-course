@@ -130,8 +130,8 @@ The failure mode of synthesis is confirmation. Two defenses: have someone who di
   Why watch: about 30 minutes; the founder of Pebble walks through the Mom Test rules with concrete bad and good questions, and covers how to find interviewees.
 - [The Jobs to be Done Theory (milkshake story), Clayton Christensen](https://www.youtube.com/watch?v=sXYm-CVzPQ0)
   Why watch: about 5 to 10 minutes depending on the version you pick; the milkshake story told by the person who made it famous, and the shortest possible explanation of why "who is the competition" is the wrong question.
-- [Jobs to be Done, Des Traynor (Business of Software)](https://www.youtube.com/results?search_query=des+traynor+jobs+to+be+done+business+of+software) (YouTube search)
-  Why watch: about 40 minutes; Intercom's cofounder explains how JTBD changed what they built and how they talked about it, with software examples.
+- [Inside Intercom: Tony Ulwick on Jobs to be Done, with Des Traynor](https://www.youtube.com/watch?v=vh1UF1jP7MQ)
+  Why watch: Intercom's cofounder interviews the person who turned jobs to be done into a working method, so you get the theory and the practical objections in one conversation.
 - [Jobs to be Done interview technique, Bob Moesta](https://www.youtube.com/watch?v=GNdR7NS-S7Q)
   Why watch: variable length; Moesta demonstrates the switch interview, including how he pulls a timeline out of a customer, which is the skill you are practicing in the exercise.
 - [Choice, happiness and spaghetti sauce, Malcolm Gladwell (TED, 2004)](https://www.ted.com/talks/malcolm_gladwell_choice_happiness_and_spaghetti_sauce)

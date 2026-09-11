@@ -140,8 +140,8 @@ Failure mode: optimizing for the metric you can see. Chasing traffic leads to br
 
 ## Videos
 
-- [Why Content Marketing Fails, Rand Fishkin (talk)](https://www.youtube.com/results?search_query=rand+fishkin+why+content+marketing+fails) (YouTube search)
-  Why watch: the clearest diagnosis of why most content efforts produce nothing, centered on distribution and unrealistic timelines; about 30 minutes in most versions.
+- [How most people get content marketing wrong, Rand Fishkin (SparkToro)](https://www.youtube.com/watch?v=4xRUWnreiWI)
+  Why watch: the clearest diagnosis of why most content efforts produce nothing, centered on distribution and unrealistic timelines.
 - [Content marketing talk, Tim Soulo (Ahrefs)](https://www.youtube.com/watch?v=TBaSly-k86c)
   Why watch: how Ahrefs built a library where every piece shows the product solving the problem, and why they judge topics by business potential rather than volume; about 30 to 40 minutes.
 - [Everybody Writes, Ann Handley (talk)](https://www.youtube.com/watch?v=JAWGDvHbLv0)

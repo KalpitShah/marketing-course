@@ -124,9 +124,9 @@ When you reposition, keep the old term reachable for a while so buyers searching
 
 ## Videos
 
-- [Obviously Awesome: How to Nail Product Positioning, April Dunford (Business of Software)](https://www.youtube.com/results?search_query=april+dunford+obviously+awesome+positioning+talk) (YouTube search)
+- [Obviously Awesome: How to Nail Product Positioning, April Dunford (Business of Software)](https://www.youtube.com/watch?v=ZLi5q7Ln1jE)
   Why watch: the source for this week's method, with real repositioning stories and the reasoning behind the order of the components. Usually 30 to 45 minutes; watch this first.
-- [April Dunford on positioning, Lenny's Podcast](https://www.youtube.com/results?search_query=lenny%27s+podcast+april+dunford+positioning) (YouTube search)
+- [April Dunford on positioning, Lenny's Podcast](https://www.youtube.com/watch?v=hdjlCLb9Hl8)
   Why watch: goes deeper on category choice, repositioning triggers and how positioning shows up in a sales pitch. Over an hour, and worth it at 1.5x.
 - [The Greatest Sales Deck I've Ever Seen, Andy Raskin (strategic narrative talk)](https://www.youtube.com/watch?v=dkVJnaxDlXE)
   Why watch: a preview of week 8, showing how a positioning decision becomes a narrative built on a named shift in the world. Usually 30 to 40 minutes.

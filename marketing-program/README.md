@@ -89,7 +89,7 @@ Most founders start with channels: "should we do SEO or ads?" That question cann
 - **What this week covers and why it matters for a founder.** The situation you are in, the mistake most founders make here, and what changes when you get it right.
 - **Core concepts.** Four to six concepts explained in depth with real examples from real companies (Slack, Stripe, Notion, Figma, HubSpot, Zapier, Superhuman, Canva, Dropbox and others). Not definitions: mechanisms, tradeoffs and failure modes.
 - **Images.** Three to five diagrams per week. Most are framework diagrams drawn for this program, stored in [`images/`](images/) and regenerated from a script. A handful of classic models (diffusion of innovations, the chasm, PageRank, Porter's value chain, PDCA, the OODA loop and others) are embedded from Wikimedia Commons with source links.
-- **Videos.** Three to five talks, lectures or interviews, each with a line on why it is worth your time. Where a talk's direct video link could not be pinned down, the link is a YouTube search that surfaces the talk as the top result, and it is labeled "(YouTube search)".
+- **Videos.** Three to five talks, lectures or interviews, each with a line on why it is worth your time. Nearly all link straight to the video. Five entries link to a YouTube search instead, because no single canonical recording could be confirmed; those are labeled "(YouTube search)".
 - **Recommended reading.** Articles, essays, HBR pieces and book chapters, with a line on what to take from each.
 - **Hands-on exercise.** Two to four hours, with a deliverable, steps, a template and criteria for "good".
 - **Self-check.** Questions to answer without looking back, and a done-when checklist.
